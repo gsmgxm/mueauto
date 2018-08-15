@@ -1,0 +1,30 @@
+C:\Documents and Settings\lte.CNG0153B8W\My Documents\Visual Studio 2008\Projects\WindowsApplication5\bin\Release\MUEclient.exe
+C:\Documents and Settings\lte.CNG0153B8W\My Documents\Visual Studio 2008\Projects\WindowsApplication5\bin\Release\MUEclient.pdb
+C:\Documents and Settings\lte.CNG0153B8W\My Documents\Visual Studio 2008\Projects\WindowsApplication5\bin\Release\MUEclient.xml
+C:\Documents and Settings\lte.CNG0153B8W\My Documents\Visual Studio 2008\Projects\WindowsApplication5\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\lte.CNG0153B8W\My Documents\Visual Studio 2008\Projects\WindowsApplication5\obj\Release\MUEclient.Form1.resources
+C:\Documents and Settings\lte.CNG0153B8W\My Documents\Visual Studio 2008\Projects\WindowsApplication5\obj\Release\MUEclient.Resources.resources
+C:\Documents and Settings\lte.CNG0153B8W\My Documents\Visual Studio 2008\Projects\WindowsApplication5\obj\Release\Mueclient.vbproj.GenerateResource.Cache
+C:\Documents and Settings\lte.CNG0153B8W\My Documents\Visual Studio 2008\Projects\WindowsApplication5\obj\Release\MUEclient.exe
+C:\Documents and Settings\lte.CNG0153B8W\My Documents\Visual Studio 2008\Projects\WindowsApplication5\obj\Release\MUEclient.xml
+C:\Documents and Settings\lte.CNG0153B8W\My Documents\Visual Studio 2008\Projects\WindowsApplication5\obj\Release\MUEclient.pdb
+C:\Documents and Settings\lte.CNG0153B8W\My Documents\Visual Studio 2008\Projects\WindowsApplication5\obj\Release\MUEclient.Form2.resources
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\bin\Release\MUEclient.exe
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\bin\Release\MUEclient.pdb
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\bin\Release\MUEclient.xml
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Release\ResolveAssemblyReference.cache
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Release\MUEclient.Form1.resources
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Release\MUEclient.Form2.resources
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Release\MUEclient.Resources.resources
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Release\Mueclient.vbproj.GenerateResource.Cache
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Release\MUEclient.exe
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Release\MUEclient.xml
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Release\MUEclient.pdb
+D:\WindowsApplication5\obj\Release\ResolveAssemblyReference.cache
+D:\WindowsApplication5\obj\Release\MUEclient.Form1.resources
+D:\WindowsApplication5\obj\Release\MUEclient.Form2.resources
+D:\WindowsApplication5\obj\Release\MUEclient.Resources.resources
+D:\WindowsApplication5\obj\Release\Mueclient.vbproj.GenerateResource.Cache
+D:\WindowsApplication5\obj\Release\MUEclient.exe
+D:\WindowsApplication5\obj\Release\MUEclient.xml
+D:\WindowsApplication5\obj\Release\MUEclient.pdb

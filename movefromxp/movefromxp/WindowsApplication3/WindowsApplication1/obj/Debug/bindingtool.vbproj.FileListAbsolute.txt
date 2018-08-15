@@ -1,0 +1,200 @@
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\bin\Debug\binding tool.exe
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\bin\Debug\binding tool.pdb
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\bin\Debug\binding tool.xml
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.vbproj.GenerateResource.Cache
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Debug\binding tool.exe
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Debug\binding tool.xml
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Debug\binding tool.pdb
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.vbproj.GenerateResource.Cache
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.pdb
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.xml
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.xml
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.pdb
+C:\project\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.xml
+C:\project\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.pdb
+C:\project\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe.manifest
+C:\project\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.application
+C:\project\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe
+C:\project\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.pdb
+C:\project\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.xml
+C:\project\WindowsApplication3\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\project\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\project\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\project\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.vbproj.GenerateResource.Cache
+C:\project\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.TrustInfo.xml
+C:\project\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe.manifest
+C:\project\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.application
+C:\project\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe.manifest
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.application
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.pdb
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.xml
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.vbproj.GenerateResource.Cache
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.TrustInfo.xml
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe.manifest
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.application
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.xml
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.pdb
+C:\project\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe.manifest
+C:\project\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.application
+C:\project\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe
+C:\project\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.pdb
+C:\project\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.xml
+C:\project\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\project\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\project\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\project\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.vbproj.GenerateResource.Cache
+C:\project\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.TrustInfo.xml
+C:\project\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe.manifest
+C:\project\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.application
+C:\project\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe
+C:\project\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.xml
+C:\project\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.pdb
+E:\WindowsApplication1\obj\Debug\bindingtool.exe
+E:\WindowsApplication1\obj\Debug\bindingtool.xml
+E:\WindowsApplication1\obj\Debug\bindingtool.pdb
+E:\WindowsApplication1\bin\Debug\bindingtool.exe.manifest
+E:\WindowsApplication1\bin\Debug\bindingtool.application
+E:\WindowsApplication1\bin\Debug\bindingtool.exe
+E:\WindowsApplication1\bin\Debug\bindingtool.pdb
+E:\WindowsApplication1\bin\Debug\bindingtool.xml
+E:\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\WindowsApplication1\obj\Debug\bindingtool.vbproj.GenerateResource.Cache
+E:\WindowsApplication1\obj\Debug\bindingtool.TrustInfo.xml
+E:\WindowsApplication1\obj\Debug\bindingtool.exe.manifest
+E:\WindowsApplication1\obj\Debug\bindingtool.application
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe.manifest
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.application
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.pdb
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.xml
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.vbproj.GenerateResource.Cache
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.TrustInfo.xml
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe.manifest
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.application
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.xml
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.pdb
+D:\WindowsApplication1\obj\Debug\bindingtool.exe
+D:\WindowsApplication1\obj\Debug\bindingtool.xml
+D:\WindowsApplication1\obj\Debug\bindingtool.pdb
+D:\WindowsApplication1\bin\Debug\bindingtool.exe.manifest
+D:\WindowsApplication1\bin\Debug\bindingtool.application
+D:\WindowsApplication1\bin\Debug\bindingtool.exe
+D:\WindowsApplication1\bin\Debug\bindingtool.pdb
+D:\WindowsApplication1\bin\Debug\bindingtool.xml
+D:\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\WindowsApplication1\obj\Debug\bindingtool.vbproj.GenerateResource.Cache
+D:\WindowsApplication1\obj\Debug\bindingtool.TrustInfo.xml
+D:\WindowsApplication1\obj\Debug\bindingtool.exe.manifest
+D:\WindowsApplication1\obj\Debug\bindingtool.application
+D:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe
+D:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.xml
+D:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.pdb
+D:\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe.manifest
+D:\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.application
+D:\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe
+D:\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.pdb
+D:\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.xml
+D:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.vbproj.GenerateResource.Cache
+D:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.TrustInfo.xml
+D:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe.manifest
+D:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.application
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe.manifest
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.application
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.pdb
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.xml
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.vbproj.GenerateResource.Cache
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.TrustInfo.xml
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe.manifest
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.application
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.xml
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.pdb
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.xml
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.pdb
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe.manifest
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.application
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.pdb
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.xml
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.vbproj.GenerateResource.Cache
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.TrustInfo.xml
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe.manifest
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.application
+E:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe
+E:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.xml
+E:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.pdb
+E:\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe.manifest
+E:\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.application
+E:\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe
+E:\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.pdb
+E:\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.xml
+E:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+E:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.vbproj.GenerateResource.Cache
+E:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.TrustInfo.xml
+E:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe.manifest
+E:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.application
+C:\WindowsApplication1\obj\Debug\bindingtool.exe
+C:\WindowsApplication1\obj\Debug\bindingtool.xml
+C:\WindowsApplication1\obj\Debug\bindingtool.pdb
+C:\WindowsApplication1\bin\Debug\bindingtool.exe.manifest
+C:\WindowsApplication1\bin\Debug\bindingtool.application
+C:\WindowsApplication1\bin\Debug\bindingtool.exe
+C:\WindowsApplication1\bin\Debug\bindingtool.pdb
+C:\WindowsApplication1\bin\Debug\bindingtool.xml
+C:\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\WindowsApplication1\obj\Debug\bindingtool.vbproj.GenerateResource.Cache
+C:\WindowsApplication1\obj\Debug\bindingtool.TrustInfo.xml
+C:\WindowsApplication1\obj\Debug\bindingtool.exe.manifest
+C:\WindowsApplication1\obj\Debug\bindingtool.application
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe.manifest
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.application
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.exe
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.pdb
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\bin\Debug\bindingtool.xml
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.vbproj.GenerateResource.Cache
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.TrustInfo.xml
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe.manifest
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.application
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.exe
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.xml
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication1\obj\Debug\bindingtool.pdb

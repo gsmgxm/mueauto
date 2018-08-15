@@ -1,0 +1,45 @@
+E:\c\Visual Studio 2008\Projects\FTPclinet\FTPclinet\bin\Debug\ftpclient.exe
+E:\c\Visual Studio 2008\Projects\FTPclinet\FTPclinet\bin\Debug\ftpclient.pdb
+E:\c\Visual Studio 2008\Projects\FTPclinet\FTPclinet\bin\Debug\ftpclient.xml
+E:\c\Visual Studio 2008\Projects\FTPclinet\FTPclinet\obj\Debug\ResolveAssemblyReference.cache
+E:\c\Visual Studio 2008\Projects\FTPclinet\FTPclinet\obj\Debug\ConsoleApplication1.Resources.resources
+E:\c\Visual Studio 2008\Projects\FTPclinet\FTPclinet\obj\Debug\FTPclinet.vbproj.GenerateResource.Cache
+E:\c\Visual Studio 2008\Projects\FTPclinet\FTPclinet\obj\Debug\ftpclient.exe
+E:\c\Visual Studio 2008\Projects\FTPclinet\FTPclinet\obj\Debug\ftpclient.xml
+E:\c\Visual Studio 2008\Projects\FTPclinet\FTPclinet\obj\Debug\ftpclient.pdb
+C:\project\FTPclinet\FTPclinet\bin\Debug\ftpclient.exe
+C:\project\FTPclinet\FTPclinet\bin\Debug\ftpclient.pdb
+C:\project\FTPclinet\FTPclinet\bin\Debug\ftpclient.xml
+C:\project\FTPclinet\FTPclinet\obj\Debug\ResolveAssemblyReference.cache
+C:\project\FTPclinet\FTPclinet\obj\Debug\ConsoleApplication1.Resources.resources
+C:\project\FTPclinet\FTPclinet\obj\Debug\FTPclinet.vbproj.GenerateResource.Cache
+C:\project\FTPclinet\FTPclinet\obj\Debug\ftpclient.exe
+C:\project\FTPclinet\FTPclinet\obj\Debug\ftpclient.xml
+C:\project\FTPclinet\FTPclinet\obj\Debug\ftpclient.pdb
+C:\project\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\bin\Debug\ftpclient.exe
+C:\project\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\bin\Debug\ftpclient.pdb
+C:\project\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\bin\Debug\ftpclient.xml
+C:\project\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\obj\Debug\ResolveAssemblyReference.cache
+C:\project\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\obj\Debug\ConsoleApplication1.Resources.resources
+C:\project\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\obj\Debug\FTPclinet.vbproj.GenerateResource.Cache
+C:\project\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\obj\Debug\ftpclient.exe
+C:\project\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\obj\Debug\ftpclient.xml
+C:\project\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\obj\Debug\ftpclient.pdb
+C:\project\movefromxp\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\bin\Debug\ftpclient.exe
+C:\project\movefromxp\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\bin\Debug\ftpclient.pdb
+C:\project\movefromxp\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\bin\Debug\ftpclient.xml
+C:\project\movefromxp\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\obj\Debug\ResolveAssemblyReference.cache
+C:\project\movefromxp\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\obj\Debug\ConsoleApplication1.Resources.resources
+C:\project\movefromxp\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\obj\Debug\FTPclinet.vbproj.GenerateResource.Cache
+C:\project\movefromxp\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\obj\Debug\ftpclient.exe
+C:\project\movefromxp\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\obj\Debug\ftpclient.xml
+C:\project\movefromxp\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\obj\Debug\ftpclient.pdb
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\bin\Debug\ftpclient.exe
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\bin\Debug\ftpclient.pdb
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\bin\Debug\ftpclient.xml
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\obj\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\obj\Debug\ConsoleApplication1.Resources.resources
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\obj\Debug\FTPclinet.vbproj.GenerateResource.Cache
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\obj\Debug\ftpclient.exe
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\obj\Debug\ftpclient.xml
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\FTPclinet\FTPclinet\obj\Debug\ftpclient.pdb

@@ -1,0 +1,20 @@
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\bin\Debug\UEpowerreset.exe
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\bin\Debug\UEpowerreset.pdb
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\bin\Debug\UEpowerreset.xml
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\obj\Debug\UEpowerreset.vbproj.GenerateResource.Cache
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\obj\Debug\UEpowerreset.exe
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\obj\Debug\UEpowerreset.xml
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\obj\Debug\UEpowerreset.pdb
+C:\project\movefromxp\movefromxp\UEpowerreset\UEpowerreset\bin\Debug\UEpowerreset.exe
+C:\project\movefromxp\movefromxp\UEpowerreset\UEpowerreset\bin\Debug\UEpowerreset.pdb
+C:\project\movefromxp\movefromxp\UEpowerreset\UEpowerreset\bin\Debug\UEpowerreset.xml
+C:\project\movefromxp\movefromxp\UEpowerreset\UEpowerreset\obj\Debug\ResolveAssemblyReference.cache
+C:\project\movefromxp\movefromxp\UEpowerreset\UEpowerreset\obj\Debug\WindowsApplication1.Form1.resources
+C:\project\movefromxp\movefromxp\UEpowerreset\UEpowerreset\obj\Debug\WindowsApplication1.Resources.resources
+C:\project\movefromxp\movefromxp\UEpowerreset\UEpowerreset\obj\Debug\UEpowerreset.vbproj.GenerateResource.Cache
+C:\project\movefromxp\movefromxp\UEpowerreset\UEpowerreset\obj\Debug\UEpowerreset.exe
+C:\project\movefromxp\movefromxp\UEpowerreset\UEpowerreset\obj\Debug\UEpowerreset.xml
+C:\project\movefromxp\movefromxp\UEpowerreset\UEpowerreset\obj\Debug\UEpowerreset.pdb

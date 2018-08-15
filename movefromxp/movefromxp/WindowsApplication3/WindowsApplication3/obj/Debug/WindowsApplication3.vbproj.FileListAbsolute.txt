@@ -1,0 +1,14 @@
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.monitor.resources
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe.licenses
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.exe
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.xml
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.pdb
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form4.resources
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.MDIForm1.resources

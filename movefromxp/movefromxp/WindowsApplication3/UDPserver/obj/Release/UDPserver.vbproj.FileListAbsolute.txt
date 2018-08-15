@@ -1,0 +1,10 @@
+E:\UDPserver\bin\Release\UDPserver.exe
+E:\UDPserver\bin\Release\UDPserver.pdb
+E:\UDPserver\bin\Release\UDPserver.xml
+E:\UDPserver\obj\Release\ResolveAssemblyReference.cache
+E:\UDPserver\obj\Release\UDPserver.Form3.resources
+E:\UDPserver\obj\Release\UDPserver.Resources.resources
+E:\UDPserver\obj\Release\UDPserver.vbproj.GenerateResource.Cache
+E:\UDPserver\obj\Release\UDPserver.exe
+E:\UDPserver\obj\Release\UDPserver.xml
+E:\UDPserver\obj\Release\UDPserver.pdb

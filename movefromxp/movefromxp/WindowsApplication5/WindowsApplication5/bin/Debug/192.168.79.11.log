@@ -1,0 +1,105 @@
+﻿2013-5-18 14:45:22 -t UE type, UEtype[H -> HISI,Qualcomm9600,BandluxeC508,ALT-C186....]
+2013-5-18 14:45:22 -s server ip
+2013-5-18 14:45:22 -p COM port name
+2013-5-18 14:45:22 -d drop check interval s
+2013-5-18 14:45:22 -i loop interval s
+2013-5-18 14:45:22 -l loop attach - detach
+2013-5-18 14:45:22 -g UEip
+2013-5-18 14:45:22 -n ftpsessionnum, 0:no traffic
+2013-5-18 14:45:22 -T traffic type, ftpdl/ftpul/http
+2013/11/05 14:13:54 -t UE type, UEtype[H -> HISI,Qualcomm9600,BandluxeC508,ALT-C186....]
+2013/11/05 14:13:54 -s server ip
+2013/11/05 14:13:54 -p COM port name
+2013/11/05 14:13:54 -d drop check interval s
+2013/11/05 14:13:54 -i loop interval s
+2013/11/05 14:13:54 -l loop attach - detach
+2013/11/05 14:13:54 -c shutdown
+2013/11/05 14:13:54 -g UEip
+2013/11/05 14:13:54 -n ftpsessionnum, 0:no traffic
+2013/11/05 14:13:54 -T traffic type, ftpdl/ftpul/http/ping
+2013/11/29 13:10:10 3696.644
+2013/11/29 13:10:10 656.9473
+2013/11/29 13:13:21 0
+2013/11/29 13:13:21 0
+2013/11/29 13:15:24 0
+2013/11/29 13:15:24 0
+2013/11/30 18:25:55 new start
+2013/11/30 18:25:55 UEtype=H
+2013/11/30 18:25:55 serverip=10.60.10.1,,,
+2013/11/30 18:25:55 serial port=
+2013/11/30 18:28:33 new start
+2013/11/30 18:28:33 UEtype=H
+2013/11/30 18:28:33 serverip=10.60.10.1,,,
+2013/11/30 18:28:33 serial port=
+2013/11/30 18:30:10 new start
+2013/11/30 18:30:10 UEtype=H
+2013/11/30 18:30:10 serverip=10.60.10.1,,,
+2013/11/30 18:30:10 serial port=COM8
+2013/11/30 18:30:36 can not find netcard name is COM8
+2013/11/30 18:31:52 new start
+2013/11/30 18:31:52 UEtype=H
+2013/11/30 18:31:52 serverip=10.60.10.1,,,
+2013/11/30 18:31:52 serial port=COM8
+2013/11/30 18:31:52 traffic type=ftpdl
+2013/11/30 18:34:06 new start
+2013/11/30 18:34:06 UEtype=H
+2013/11/30 18:34:06 serverip=10.60.10.1,,,
+2013/11/30 18:34:06 serial port=COM8
+2013/11/30 18:34:06 traffic type=ftpdl
+2013/11/30 18:45:23 new start
+2013/11/30 18:45:23 UEtype=H
+2013/11/30 18:45:23 serverip=10.60.10.1,,,
+2013/11/30 18:45:23 serial port=COM8
+2013/11/30 18:45:23 traffic type=ftpdl
+2013/11/30 18:46:20 new start
+2013/11/30 18:46:20 UEtype=H
+2013/11/30 18:46:20 serverip=10.60.10.1,,,
+2013/11/30 18:46:20 serial port=COM8
+2013/11/30 18:46:20 traffic type=ftpdl
+2013/11/19 18:51:35 new start
+2013/11/19 18:51:35 UEtype=H
+2013/11/19 18:51:35 serverip=10.60.10.1,,,
+2013/11/19 18:51:35 serial port=COM8
+2013/11/19 18:51:35 traffic type=ftpdl
+2014/03/09 14:29:15 -t UE type, UEtype[H -> HISI,Qualcomm9600,BandluxeC508,ALT-C186,Androidinter....]
+2014/03/09 14:29:16 -s server ip
+2014/03/09 14:29:16 -p COM port name
+2014/03/09 14:29:16 -d drop check interval s
+2014/03/09 14:29:16 -i loop interval s
+2014/03/09 14:29:16 -l loop attach - detach
+2014/03/09 14:29:16 -c shutdown
+2014/03/09 14:29:16 -g UEip
+2014/03/09 14:29:16 -n ftpsessionnum, 0:no traffic
+2014/03/09 14:29:16 -T traffic type, ftpdl/ftpul/http/ping
+2014/03/09 14:29:16 -a throughput report interval, 1/10/60
+2014/03/09 14:29:16 -S sync time value
+2014/03/09 14:29:16 -D android device id
+2014/03/09 14:29:16 Auto close after 10s
+2014/03/09 14:29:29 -t UE type, UEtype[H -> HISI,Qualcomm9600,BandluxeC508,ALT-C186,Androidinter....]
+2014/03/09 14:29:29 -s server ip
+2014/03/09 14:29:29 -p COM port name
+2014/03/09 14:29:29 -d drop check interval s
+2014/03/09 14:29:29 -i loop interval s
+2014/03/09 14:29:29 -l loop attach - detach
+2014/03/09 14:29:29 -c shutdown
+2014/03/09 14:29:29 -g UEip
+2014/03/09 14:29:29 -n ftpsessionnum, 0:no traffic
+2014/03/09 14:29:29 -T traffic type, ftpdl/ftpul/http/ping
+2014/03/09 14:29:29 -a throughput report interval, 1/10/60
+2014/03/09 14:29:29 -S sync time value
+2014/03/09 14:29:29 -D android device id
+2014/03/09 14:29:29 Auto close after 10s
+2014/03/09 14:36:36 -t UE type, UEtype[H -> HISI,Qualcomm9600,BandluxeC508,ALT-C186,Androidinter....]
+2014/03/09 14:36:36 -s server ip
+2014/03/09 14:36:36 -p COM port name
+2014/03/09 14:36:36 -d drop check interval s
+2014/03/09 14:36:36 -i loop interval s
+2014/03/09 14:36:36 -l loop attach - detach
+2014/03/09 14:36:36 -c shutdown
+2014/03/09 14:36:36 -g UEip
+2014/03/09 14:36:36 -n ftpsessionnum, 0:no traffic
+2014/03/09 14:36:36 -T traffic type, ftpdl/ftpul/http/ping
+2014/03/09 14:36:36 -a throughput report interval, 1/10/60
+2014/03/09 14:36:36 -S sync time value
+2014/03/09 14:36:36 -D android device id
+2014/03/09 14:36:36 Auto close after 10s

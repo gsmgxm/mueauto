@@ -1,0 +1,24 @@
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\bin\Release\bindingtool.exe
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\bin\Release\bindingtool.pdb
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\bin\Release\bindingtool.xml
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Release\bindingtool.vbproj.GenerateResource.Cache
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Release\bindingtool.exe
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Release\bindingtool.xml
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication1\obj\Release\bindingtool.pdb
+D:\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+D:\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+D:\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+D:\WindowsApplication1\obj\Release\bindingtool.vbproj.GenerateResource.Cache
+D:\WindowsApplication1\obj\Release\bindingtool.exe
+D:\WindowsApplication1\obj\Release\bindingtool.xml
+D:\WindowsApplication1\obj\Release\bindingtool.pdb
+E:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+E:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Release\WindowsApplication1.Form1.resources
+E:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Release\WindowsApplication1.Resources.resources
+E:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Release\bindingtool.vbproj.GenerateResource.Cache
+E:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Release\bindingtool.exe
+E:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Release\bindingtool.xml
+E:\movefromxp\WindowsApplication3\WindowsApplication1\obj\Release\bindingtool.pdb

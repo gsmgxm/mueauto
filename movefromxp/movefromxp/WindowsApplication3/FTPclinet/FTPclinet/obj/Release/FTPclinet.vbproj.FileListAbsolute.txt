@@ -1,0 +1,9 @@
+E:\c\Visual Studio 2008\Projects\FTPclinet\FTPclinet\obj\Release\ResolveAssemblyReference.cache
+E:\c\Visual Studio 2008\Projects\FTPclinet\FTPclinet\obj\Release\ConsoleApplication1.Resources.resources
+E:\c\Visual Studio 2008\Projects\FTPclinet\FTPclinet\obj\Release\FTPclinet.vbproj.GenerateResource.Cache
+E:\c\Visual Studio 2008\Projects\FTPclinet\FTPclinet\bin\Release\ftpclient.exe
+E:\c\Visual Studio 2008\Projects\FTPclinet\FTPclinet\bin\Release\ftpclient.pdb
+E:\c\Visual Studio 2008\Projects\FTPclinet\FTPclinet\bin\Release\ftpclient.xml
+E:\c\Visual Studio 2008\Projects\FTPclinet\FTPclinet\obj\Release\ftpclient.exe
+E:\c\Visual Studio 2008\Projects\FTPclinet\FTPclinet\obj\Release\ftpclient.xml
+E:\c\Visual Studio 2008\Projects\FTPclinet\FTPclinet\obj\Release\ftpclient.pdb

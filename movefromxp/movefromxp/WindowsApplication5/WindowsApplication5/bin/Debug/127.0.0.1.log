@@ -1,0 +1,967 @@
+﻿2013/08/16 21:51:13 new start
+2013/08/16 21:51:13 UEtype=HE5776
+2013/08/16 21:51:13 serverip=192.168.18.1
+2013/08/16 21:51:13 serial port=com6
+2013/08/16 21:51:13 traffic type=ping
+2013/08/16 21:52:52 new start
+2013/08/16 21:52:52 UEtype=HE5776
+2013/08/16 21:52:52 serverip=192.168.18.1
+2013/08/16 21:52:52 serial port=com6
+2013/08/16 21:52:52 traffic type=ping
+2013/08/16 21:54:02 new start
+2013/08/16 21:54:02 UEtype=HE5776
+2013/08/16 21:54:02 serverip=192.168.18.1
+2013/08/16 21:54:02 serial port=com6
+2013/08/16 21:54:02 traffic type=ping
+2013/08/16 22:05:49 new start
+2013/08/16 22:05:49 UEtype=HE5776
+2013/08/16 22:05:49 serverip=192.168.18.1
+2013/08/16 22:05:49 serial port=com6
+2013/08/16 22:05:49 traffic type=ping
+2013/08/16 22:12:10 new start
+2013/08/16 22:12:10 UEtype=HE5776
+2013/08/16 22:12:10 serverip=192.168.18.1
+2013/08/16 22:12:10 serial port=com6
+2013/08/16 22:12:10 traffic type=http
+2013/08/16 22:19:28 new start
+2013/08/16 22:19:28 UEtype=HE5776
+2013/08/16 22:19:28 serverip=192.168.18.1
+2013/08/16 22:19:28 serial port=com6
+2013/08/16 22:19:28 traffic type=http
+2013/08/17 13:04:49 new start
+2013/08/17 13:04:49 UEtype=HE5776
+2013/08/17 13:04:49 serverip=192.168.1.4
+2013/08/17 13:04:49 serial port=com6
+2013/08/17 13:04:49 traffic type=http
+2013/08/17 13:05:35 new start
+2013/08/17 13:05:35 UEtype=HE5776
+2013/08/17 13:05:35 serverip=192.168.1.4
+2013/08/17 13:05:35 serial port=com6
+2013/08/17 13:05:35 traffic type=http
+2013/08/17 13:07:45 new start
+2013/08/17 13:07:45 UEtype=HE5776
+2013/08/17 13:07:45 serverip=192.168.1.4
+2013/08/17 13:07:45 serial port=com6
+2013/08/17 13:07:45 traffic type=http
+2013/08/18 08:10:52 new start
+2013/08/18 08:10:52 UEtype=HE5776
+2013/08/18 08:10:52 serverip=192.168.1.4
+2013/08/18 08:10:52 serial port=com6
+2013/08/18 08:10:52 traffic type=video
+2013/08/18 08:11:37 new start
+2013/08/18 08:11:37 UEtype=HE5776
+2013/08/18 08:11:37 serverip=192.168.1.4
+2013/08/18 08:11:37 serial port=com6
+2013/08/18 08:11:37 traffic type=video
+2013/08/18 08:24:14 new start
+2013/08/18 08:24:14 UEtype=HE5776
+2013/08/18 08:24:14 serverip=192.168.1.4
+2013/08/18 08:24:14 serial port=com6
+2013/08/18 08:24:14 traffic type=video
+2013/08/18 08:52:32 new start
+2013/08/18 08:52:32 UEtype=HE5776
+2013/08/18 08:52:32 serverip=192.168.1.4
+2013/08/18 08:52:32 serial port=com6
+2013/08/18 08:52:32 traffic type=video
+2013/08/18 09:50:30 new start
+2013/08/18 09:50:30 UEtype=HE5776
+2013/08/18 09:50:30 serverip=192.168.1.4
+2013/08/18 09:50:30 serial port=com6
+2013/08/18 09:50:30 traffic type=video
+2013/08/18 09:53:40 new start
+2013/08/18 09:53:40 UEtype=HE5776
+2013/08/18 09:53:40 serverip=192.168.1.4
+2013/08/18 09:53:40 serial port=com6
+2013/08/18 09:53:40 traffic type=video
+2013/08/18 10:00:05 new start
+2013/08/18 10:00:05 UEtype=HE5776
+2013/08/18 10:00:05 serverip=192.168.1.4
+2013/08/18 10:00:05 serial port=com6
+2013/08/18 10:00:05 traffic type=ping
+2013/08/18 10:02:23 new start
+2013/08/18 10:02:23 UEtype=HE5776
+2013/08/18 10:02:23 serverip=192.168.1.4
+2013/08/18 10:02:23 serial port=com6
+2013/08/18 10:02:23 traffic type=ping
+2013/08/18 10:08:05 new start
+2013/08/18 10:08:05 UEtype=HE5776
+2013/08/18 10:08:05 serverip=192.168.1.4
+2013/08/18 10:08:05 serial port=com6
+2013/08/18 10:08:05 traffic type=http
+2013/08/25 15:11:13 new start
+2013/08/25 15:11:13 UEtype=HE5776
+2013/08/25 15:11:13 serverip=192.168.1.4
+2013/08/25 15:11:13 serial port=com6
+2013/08/25 15:11:13 traffic type=http
+2013/08/25 15:12:43 new start
+2013/08/25 15:12:43 UEtype=HE5776
+2013/08/25 15:12:43 serverip=192.168.1.4
+2013/08/25 15:12:43 serial port=com6
+2013/08/25 15:12:43 traffic type=http
+2013/08/25 15:13:41 new start
+2013/08/25 15:13:41 UEtype=HE5776
+2013/08/25 15:13:41 serverip=192.168.1.4
+2013/08/25 15:13:41 serial port=com6
+2013/08/25 15:13:41 traffic type=http
+2013/08/25 20:51:08 new start
+2013/08/25 20:51:08 UEtype=HE5776
+2013/08/25 20:51:08 serverip=192.168.18.1,192.168.18.2,192.168.18.3,192.168.18.4
+2013/08/25 20:51:08 serial port=com6
+2013/08/25 20:51:08 traffic type=volte
+2013/11/30 19:12:55 new start
+2013/11/30 19:12:55 UEtype=H
+2013/11/30 19:12:55 serverip=10.60.10.1,,,
+2013/11/30 19:12:55 serial port=COM8
+2013/11/30 19:12:55 traffic type=ftpdl
+2014-03-11 18:30:00 new start
+2014-03-11 18:30:00 UEtype=Qualcomm9600
+2014-03-11 18:30:00 serverip=172.31.9.2,,,
+2014-03-11 18:30:00 serial port=com3
+2014-03-11 18:30:00 netcard device name :Qualcomm Wireless HS-USB Ethernet Adapter 9055-3(NET1) - 数据包计划程序微型端口
+2014-03-11 18:30:00 traffic type=ftpdl
+2014-03-11 18:30:54 new start
+2014-03-11 18:30:54 UEtype=Qualcomm9600
+2014-03-11 18:30:54 serverip=172.31.9.2,,,
+2014-03-11 18:30:54 serial port=com3
+2014-03-11 18:30:54 netcard device name :Qualcomm Wireless HS-USB Ethernet Adapter 9055-3(NET1) - 数据包计划程序微型端口
+2014-03-11 18:30:54 traffic type=ftpdl
+2014-03-11 18:33:03 new start
+2014-03-11 18:33:03 UEtype=Qualcomm9600
+2014-03-11 18:33:03 serverip=172.31.9.2,,,
+2014-03-11 18:33:03 serial port=com3
+2014-03-11 18:33:04 netcard device name :Qualcomm Wireless HS-USB Ethernet Adapter 9055-3(NET1) - 数据包计划程序微型端口
+2014-03-11 18:33:04 traffic type=ftpdl
+2014-03-11 18:40:04 new start
+2014-03-11 18:40:04 UEtype=Qualcomm9600
+2014-03-11 18:40:04 serverip=172.31.9.2,,,
+2014-03-11 18:40:04 serial port=com3
+2014-03-11 18:40:04 netcard device name :Qualcomm Wireless HS-USB Ethernet Adapter 9055-3(NET1) - 数据包计划程序微型端口
+2014-03-11 18:40:04 traffic type=ftpdl
+2014-03-11 18:44:18 new start
+2014-03-11 18:44:18 UEtype=Qualcomm9600
+2014-03-11 18:44:18 serverip=172.31.9.2,,,
+2014-03-11 18:44:18 serial port=com3
+2014-03-11 18:44:18 can not find netcard or dial up modem port name is com3
+2014-03-11 18:46:14 new start
+2014-03-11 18:46:14 UEtype=Qualcomm9600
+2014-03-11 18:46:14 serverip=172.31.9.2,,,
+2014-03-11 18:46:14 serial port=com3
+2014-03-11 18:46:15 netcard device name :Qualcomm Wireless HS-USB Ethernet Adapter 9055-3(NET1) - 数据包计划程序微型端口
+2014-03-11 18:46:15 traffic type=ftpdl
+2014-03-11 20:23:38 new start
+2014-03-11 20:23:38 UEtype=Qualcomm9600
+2014-03-11 20:23:38 serverip=172.31.9.2,,,
+2014-03-11 20:23:38 serial port=com3
+2014-03-11 20:23:39 netcard device name :Qualcomm Wireless HS-USB Ethernet Adapter 9055-3(NET1) - 数据包计划程序微型端口
+2014-03-11 20:23:39 traffic type=ftpdl
+2014/03/11 20:38:20 new start
+2014/03/11 20:38:20 UEtype=Qualcomm9600
+2014/03/11 20:38:20 serverip=172.31.9.2,,,
+2014/03/11 20:38:20 serial port=com10
+2014/03/11 20:38:21 netcard device name :Qualcomm Wireless HS-USB Ethernet Adapter 9055-3(NET1) _2
+2014/03/11 20:38:21 traffic type=ftpdl
+2014/03/11 20:43:47 new start
+2014/03/11 20:43:47 UEtype=Qualcomm9600
+2014/03/11 20:43:47 serverip=172.31.9.2,,,
+2014/03/11 20:43:47 serial port=com10
+2014/03/11 20:43:48 netcard device name :Qualcomm Wireless HS-USB Ethernet Adapter 9055-3(NET1) _2
+2014/03/11 20:43:48 traffic type=ftpdl
+2014/03/11 20:47:08 new start
+2014/03/11 20:47:08 UEtype=Qualcomm9600
+2014/03/11 20:47:08 serverip=172.31.9.2,,,
+2014/03/11 20:47:08 serial port=com10
+2014/03/11 20:47:09 netcard device name :Qualcomm Wireless HS-USB Ethernet Adapter 9055-3(NET1) _2
+2014/03/11 20:47:09 traffic type=ftpdl
+2014/03/11 20:50:53 new start
+2014/03/11 20:50:53 UEtype=Qualcomm9600
+2014/03/11 20:50:53 serverip=172.31.9.2,,,
+2014/03/11 20:50:53 serial port=com10
+2014/03/11 20:50:54 netcard device name :Qualcomm Wireless HS-USB Ethernet Adapter 9055-3(NET1) #2
+2014/03/11 20:50:54 traffic type=ftpdl
+2014/03/11 20:59:11 new start
+2014/03/11 20:59:11 UEtype=Qualcomm9600
+2014/03/11 20:59:11 serverip=172.31.9.2,,,
+2014/03/11 20:59:11 serial port=com10
+2014/03/11 20:59:12 netcard device name :Qualcomm Wireless HS-USB Ethernet Adapter 9055-3(NET1) #2
+2014/03/11 20:59:12 traffic type=ftpdl
+2014/03/11 21:17:34 new start
+2014/03/11 21:17:34 UEtype=Qualcomm9600
+2014/03/11 21:17:34 serverip=172.31.9.2,,,
+2014/03/11 21:17:34 serial port=com10
+2014/03/11 21:18:11 new start
+2014/03/11 21:18:11 UEtype=Qualcomm9600
+2014/03/11 21:18:11 serverip=172.31.9.2,,,
+2014/03/11 21:18:11 serial port=com10
+2014/03/11 21:18:25 netcard device name :Qualcomm Wireless HS-USB Ethernet Adapter 9055-3(NET1) _2
+2014/03/11 21:18:25 traffic type=ftpdl
+2014/03/11 21:21:26 new start
+2014/03/11 21:21:26 UEtype=Qualcomm9600
+2014/03/11 21:21:26 serverip=172.31.9.2,,,
+2014/03/11 21:21:26 serial port=com10
+2014/03/11 21:21:32 netcard device name :Qualcomm Wireless HS-USB Ethernet Adapter 9055-3[NET1] _2
+2014/03/11 21:21:32 traffic type=ftpdl
+2014/03/12 10:14:58 new start
+2014/03/12 10:14:58 UEtype=Qualcomm9600
+2014/03/12 10:14:58 serverip=172.31.9.2,,,
+2014/03/12 10:14:58 serial port=com10
+2014/03/12 10:14:59 netcard device name :Qualcomm Wireless HS-USB Ethernet Adapter 9055-3[NET1] _2
+2014/03/12 10:14:59 traffic type=ftpdl
+2014/03/12 16:50:26 new start
+2014/03/12 16:50:26 UEtype=Qualcomm9600
+2014/03/12 16:50:26 serverip=172.31.9.2,,,
+2014/03/12 16:50:26 serial port=com10
+2014/03/12 16:50:27 netcard device name :Qualcomm Wireless HS-USB Ethernet Adapter 9055-3[NET1] _2
+2014/03/12 16:50:27 traffic type=ftpdl
+2014/03/21 20:07:23 new start
+2014/03/21 20:07:23 UEtype=HE5776
+2014/03/21 20:07:23 serverip=172.31.9.2,,,
+2014/03/21 20:07:23 serial port=com12
+2014/03/21 20:07:24 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/03/21 20:07:24 traffic type=ftpdl
+2014/11/08 23:07:48 new start
+2014/11/08 23:07:48 UEtype=HE5776
+2014/11/08 23:07:48 serverip=127.0.0.1,,,
+2014/11/08 23:07:48 serial port=com64
+2014/11/08 23:07:48 netcard device name :Qualcomm Atheros AR9285 802.11b_g_n WiFi Adapter
+2014/11/08 23:07:48 traffic type=ftpdl
+2014/11/08 23:10:43 new start
+2014/11/08 23:10:43 UEtype=HE5776
+2014/11/08 23:10:43 serverip=127.0.0.1,,,
+2014/11/08 23:10:43 serial port=com64
+2014/11/08 23:10:43 netcard device name :Qualcomm Atheros AR9285 802.11b_g_n WiFi Adapter
+2014/11/08 23:10:43 traffic type=ftpdl
+2014/11/08 23:16:04 new start
+2014/11/08 23:16:04 UEtype=HE5776
+2014/11/08 23:16:04 serverip=127.0.0.1,,,
+2014/11/08 23:16:04 serial port=com64
+2014/11/08 23:16:05 netcard device name :Qualcomm Atheros AR9285 802.11b_g_n WiFi Adapter
+2014/11/08 23:16:05 traffic type=ftpdl
+2014/11/08 23:25:47 new start
+2014/11/08 23:25:47 UEtype=HE5776
+2014/11/08 23:25:47 serverip=192.168.18.101,,,
+2014/11/08 23:25:47 serial port=com64
+2014/11/08 23:25:47 netcard device name :Qualcomm Atheros AR9285 802.11b_g_n WiFi Adapter
+2014/11/08 23:25:47 traffic type=ftpdl
+2014/11/09 00:18:05 new start
+2014/11/09 00:18:05 UEtype=HE5776
+2014/11/09 00:18:05 serverip=172.24.186.199,,,
+2014/11/09 00:18:05 serial port=com64
+2014/11/09 00:18:05 netcard device name :Qualcomm Atheros AR9285 802.11b_g_n WiFi Adapter
+2014/11/09 00:18:05 traffic type=ftpdl
+2014/11/09 00:19:57 new start
+2014/11/09 00:19:57 UEtype=HE5776
+2014/11/09 00:19:57 serverip=172.24.186.199,,,
+2014/11/09 00:19:57 serial port=com64
+2014/11/09 00:19:58 netcard device name :Qualcomm Atheros AR9285 802.11b_g_n WiFi Adapter
+2014/11/09 00:19:58 traffic type=ftpdl
+2014/11/09 00:30:16 new start
+2014/11/09 00:30:16 UEtype=HE5776
+2014/11/09 00:30:16 serverip=172.24.186.199,,,
+2014/11/09 00:30:16 serial port=com64
+2014/11/09 00:30:17 netcard device name :Qualcomm Atheros AR9285 802.11b_g_n WiFi Adapter
+2014/11/09 00:30:17 traffic type=ftpdl
+2014/11/09 00:33:57 new start
+2014/11/09 00:33:57 UEtype=HE5776
+2014/11/09 00:33:57 serverip=172.24.186.199,,,
+2014/11/09 00:33:57 serial port=com64
+2014/11/09 00:33:57 netcard device name :Qualcomm Atheros AR9285 802.11b_g_n WiFi Adapter
+2014/11/09 00:33:57 traffic type=ftpdl
+2014/11/09 00:41:44 new start
+2014/11/09 00:41:44 UEtype=HE5776
+2014/11/09 00:41:44 serverip=172.24.186.199,,,
+2014/11/09 00:41:44 serial port=com64
+2014/11/09 00:41:45 netcard device name :Qualcomm Atheros AR9285 802.11b_g_n WiFi Adapter
+2014/11/09 00:41:45 traffic type=ftpul
+2014/11/09 00:44:59 new start
+2014/11/09 00:44:59 UEtype=HE5776
+2014/11/09 00:44:59 serverip=172.24.186.199,,,
+2014/11/09 00:44:59 serial port=com64
+2014/11/09 00:44:59 netcard device name :Qualcomm Atheros AR9285 802.11b_g_n WiFi Adapter
+2014/11/09 00:44:59 traffic type=ftpul
+2014/11/09 00:58:06 new start
+2014/11/09 00:58:06 UEtype=HE5776
+2014/11/09 00:58:06 serverip=172.24.186.199,,,
+2014/11/09 00:58:06 serial port=com64
+2014/11/09 00:58:06 netcard device name :Qualcomm Atheros AR9285 802.11b_g_n WiFi Adapter
+2014/11/09 00:58:06 traffic type=ftpul
+2014/11/09 01:00:37 new start
+2014/11/09 01:00:37 UEtype=HE5776
+2014/11/09 01:00:37 serverip=172.24.186.199,,,
+2014/11/09 01:00:37 serial port=com64
+2014/11/09 01:00:37 netcard device name :Qualcomm Atheros AR9285 802.11b_g_n WiFi Adapter
+2014/11/09 01:00:37 traffic type=ftpdlul
+2014/11/09 01:04:00 new start
+2014/11/09 01:04:00 UEtype=HE5776
+2014/11/09 01:04:00 serverip=172.24.186.199,,,
+2014/11/09 01:04:00 serial port=com64
+2014/11/09 01:04:00 netcard device name :Qualcomm Atheros AR9285 802.11b_g_n WiFi Adapter
+2014/11/09 01:04:00 traffic type=ftpdlul
+2014/11/09 17:48:15 new start
+2014/11/09 17:48:15 UEtype=HE5776
+2014/11/09 17:48:15 serverip=172.24.186.199,,,
+2014/11/09 17:48:15 serial port=com64
+2014/11/09 17:48:16 netcard device name :Qualcomm Atheros AR9285 802.11b_g_n WiFi Adapter
+2014/11/09 17:48:16 traffic type=ftpdlul
+2014/12/25 14:36:39 new start
+2014/12/25 14:36:39 UEtype=HE5776
+2014/12/25 14:36:39 serverip=172.24.186.199,,,
+2014/12/25 14:36:39 serial port=com23
+2014/12/25 14:36:39 can not find netcard or dial up modem port name is com23
+2014/12/25 14:37:01 new start
+2014/12/25 14:37:01 UEtype=HE5776
+2014/12/25 14:37:01 serverip=172.24.186.199,,,
+2014/12/25 14:37:01 serial port=com23
+2014/12/25 14:37:01 can not find netcard or dial up modem port name is com23
+2014/12/25 14:39:23 new start
+2014/12/25 14:39:23 UEtype=HE5776
+2014/12/25 14:39:23 serverip=172.24.186.199,,,
+2014/12/25 14:39:23 serial port=com23
+2014/12/25 14:39:24 netcard device name :Realtek PCIe GBE Family Controller
+2014/12/25 14:39:24 traffic type=ftpdlul
+2014/12/25 14:41:53 new start
+2014/12/25 14:41:53 UEtype=HE5776
+2014/12/25 14:41:53 serverip=172.24.186.199,,,
+2014/12/25 14:41:53 serial port=com23
+2014/12/25 14:41:53 netcard device name :Realtek PCIe GBE Family Controller
+2014/12/25 14:41:53 traffic type=ftpdlul
+2014/12/25 14:43:03 new start
+2014/12/25 14:43:03 UEtype=HE5776
+2014/12/25 14:43:03 serverip=172.24.186.199,,,
+2014/12/25 14:43:03 serial port=com23
+2014/12/25 14:43:03 netcard device name :Realtek PCIe GBE Family Controller
+2014/12/25 14:43:03 traffic type=ftpdlul
+2014/12/25 14:43:14 new start
+2014/12/25 14:43:14 UEtype=HE5776
+2014/12/25 14:43:14 serverip=172.24.186.199,,,
+2014/12/25 14:43:14 serial port=com23
+2014/12/25 14:43:14 netcard device name :Realtek PCIe GBE Family Controller
+2014/12/25 14:43:14 traffic type=ftpdlul
+2014/12/25 14:43:25 new start
+2014/12/25 14:43:25 UEtype=HE5776
+2014/12/25 14:43:25 serverip=172.24.186.199,,,
+2014/12/25 14:43:25 serial port=com23
+2014/12/25 14:43:25 netcard device name :Realtek PCIe GBE Family Controller
+2014/12/25 14:43:25 traffic type=ftpdlul
+2014/12/25 14:45:46 new start
+2014/12/25 14:45:46 UEtype=HE5776
+2014/12/25 14:45:46 serverip=172.24.186.199,,,
+2014/12/25 14:45:46 serial port=com23
+2014/12/25 14:45:47 netcard device name :Realtek PCIe GBE Family Controller
+2014/12/25 14:45:47 traffic type=ftpdlul
+2014/12/25 14:54:49 new start
+2014/12/25 14:54:49 UEtype=HE5776
+2014/12/25 14:54:49 serverip=172.24.186.199,,,
+2014/12/25 14:54:49 serial port=com12
+2014/12/25 14:54:49 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/25 14:54:49 traffic type=ftpdlul
+2014/12/25 15:05:05 new start
+2014/12/25 15:05:05 UEtype=HE5776
+2014/12/25 15:05:05 serverip=172.24.186.199,,,
+2014/12/25 15:05:05 serial port=com12
+2014/12/25 15:05:06 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/25 15:05:06 traffic type=ftpdlul
+2014/12/25 15:10:20 new start
+2014/12/25 15:10:20 UEtype=HE5776
+2014/12/25 15:10:20 serverip=172.24.186.199,,,
+2014/12/25 15:10:20 serial port=com12
+2014/12/25 15:10:20 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/25 15:10:20 traffic type=ftpdlul
+2014/12/25 15:39:14 new start
+2014/12/25 15:39:14 UEtype=HE5776
+2014/12/25 15:39:14 serverip=172.24.186.199,,,
+2014/12/25 15:39:14 serial port=com12
+2014/12/25 15:39:15 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/25 15:39:15 traffic type=ftpdlul
+2014/12/25 15:41:42 new start
+2014/12/25 15:41:42 UEtype=HE5776
+2014/12/25 15:41:42 serverip=172.24.186.199,,,
+2014/12/25 15:41:42 serial port=com12
+2014/12/25 15:41:43 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/25 15:41:43 traffic type=ftpdlul
+2014/12/25 15:43:38 new start
+2014/12/25 15:43:38 UEtype=HE5776
+2014/12/25 15:43:38 serverip=172.24.186.199,,,
+2014/12/25 15:43:38 serial port=com12
+2014/12/25 15:43:38 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/25 15:43:38 traffic type=ftpdlul
+2014/12/25 15:45:14 new start
+2014/12/25 15:45:14 UEtype=HE5776
+2014/12/25 15:45:14 serverip=172.24.186.199,,,
+2014/12/25 15:45:14 serial port=com12
+2014/12/25 15:45:14 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/25 15:45:14 traffic type=ftpdlul
+2014/12/25 15:48:07 new start
+2014/12/25 15:48:07 UEtype=HE5776
+2014/12/25 15:48:07 serverip=172.24.186.199,,,
+2014/12/25 15:48:07 serial port=com12
+2014/12/25 15:48:08 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/25 15:48:08 traffic type=ftpdlul
+2014/12/25 15:53:02 new start
+2014/12/25 15:53:02 UEtype=HE5776
+2014/12/25 15:53:02 serverip=172.24.186.199,,,
+2014/12/25 15:53:02 serial port=com12
+2014/12/25 15:53:03 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/25 15:53:03 traffic type=ftpdlul
+2014/12/25 15:57:19 new start
+2014/12/25 15:57:19 UEtype=HE5776
+2014/12/25 15:57:19 serverip=172.24.186.199,,,
+2014/12/25 15:57:19 serial port=com12
+2014/12/25 15:57:19 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/25 15:57:19 traffic type=ftpdlul
+2014/12/25 16:08:47 new start
+2014/12/25 16:08:47 UEtype=HE5776
+2014/12/25 16:08:47 serverip=172.24.186.199,,,
+2014/12/25 16:08:47 serial port=com12
+2014/12/25 16:08:47 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/25 16:08:47 traffic type=ftpdlul
+2014/12/26 11:50:37 new start
+2014/12/26 11:50:37 UEtype=HE5776
+2014/12/26 11:50:37 serverip=172.24.186.199,,,
+2014/12/26 11:50:37 serial port=com12
+2014/12/26 11:50:37 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 11:50:37 traffic type=ftpdlul
+2014/12/26 11:52:20 new start
+2014/12/26 11:52:20 UEtype=HE5776
+2014/12/26 11:52:20 serverip=172.24.186.199,,,
+2014/12/26 11:52:20 serial port=com12
+2014/12/26 11:52:20 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 11:52:20 traffic type=ftpdlul
+2014/12/26 11:55:05 new start
+2014/12/26 11:55:05 UEtype=HE5776
+2014/12/26 11:55:05 serverip=172.24.186.199,,,
+2014/12/26 11:55:05 serial port=com12
+2014/12/26 11:55:05 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 11:55:05 traffic type=ftpdlul
+2014/12/26 11:57:08 new start
+2014/12/26 11:57:08 UEtype=HE5776
+2014/12/26 11:57:08 serverip=172.24.186.199,,,
+2014/12/26 11:57:08 serial port=com12
+2014/12/26 11:57:08 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 11:57:08 traffic type=ftpdlul
+2014/12/26 12:02:48 new start
+2014/12/26 12:02:48 UEtype=HE5776
+2014/12/26 12:02:48 serverip=172.24.186.199,,,
+2014/12/26 12:02:48 serial port=com12
+2014/12/26 12:02:49 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 12:02:49 traffic type=ftpdlul
+2014/12/26 12:09:27 new start
+2014/12/26 12:09:27 UEtype=HE5776
+2014/12/26 12:09:27 serverip=172.24.186.199,,,
+2014/12/26 12:09:27 serial port=com12
+2014/12/26 12:09:28 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 12:09:28 traffic type=ftpdlul
+2014/12/26 12:11:28 new start
+2014/12/26 12:11:28 UEtype=HE5776
+2014/12/26 12:11:28 serverip=172.24.186.199,,,
+2014/12/26 12:11:28 serial port=com12
+2014/12/26 12:11:29 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 12:11:29 traffic type=ftpdlul
+2014/12/26 12:19:08 new start
+2014/12/26 12:19:08 UEtype=HE5776
+2014/12/26 12:19:08 serverip=172.24.186.199,,,
+2014/12/26 12:19:08 serial port=com12
+2014/12/26 12:19:08 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 12:19:08 traffic type=ftpdlul
+2014/12/26 14:56:52 new start
+2014/12/26 14:56:52 UEtype=HE5776
+2014/12/26 14:56:52 serverip=172.24.186.199,,,
+2014/12/26 14:56:52 serial port=com12
+2014/12/26 14:56:53 can not find netcard or dial up modem port name is com12
+2014/12/26 14:58:32 new start
+2014/12/26 14:58:32 UEtype=HE5776
+2014/12/26 14:58:32 serverip=172.24.186.199,,,
+2014/12/26 14:58:32 serial port=com12
+2014/12/26 14:58:33 can not find netcard or dial up modem port name is com12
+2014/12/26 14:58:47 new start
+2014/12/26 14:58:47 UEtype=HE5776
+2014/12/26 14:58:47 serverip=172.24.186.199,,,
+2014/12/26 14:58:47 serial port=com12
+2014/12/26 14:58:48 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 14:58:48 traffic type=ftpdlul
+2014/12/26 15:05:13 new start
+2014/12/26 15:05:13 UEtype=HE5776
+2014/12/26 15:05:13 serverip=172.24.186.199,,,
+2014/12/26 15:05:13 serial port=com12
+2014/12/26 15:05:13 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 15:05:13 traffic type=ftpdlul
+2014/12/26 15:08:01 new start
+2014/12/26 15:08:01 UEtype=HE5776
+2014/12/26 15:08:01 serverip=172.24.186.199,,,
+2014/12/26 15:08:01 serial port=com12
+2014/12/26 15:08:02 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 15:08:02 traffic type=ftpdlul
+2014/12/26 15:11:53 new start
+2014/12/26 15:11:53 UEtype=HE5776
+2014/12/26 15:11:53 serverip=172.24.186.199,,,
+2014/12/26 15:11:53 serial port=com12
+2014/12/26 15:11:53 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 15:11:53 traffic type=ftpdlul
+2014/12/26 15:16:30 new start
+2014/12/26 15:16:30 UEtype=HE5776
+2014/12/26 15:16:30 serverip=172.24.186.199,,,
+2014/12/26 15:16:30 serial port=com12
+2014/12/26 15:16:30 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 15:16:30 traffic type=ftpdlul
+2014/12/26 15:20:31 new start
+2014/12/26 15:20:31 UEtype=HE5776
+2014/12/26 15:20:31 serverip=172.24.186.199,,,
+2014/12/26 15:20:31 serial port=com12
+2014/12/26 15:20:32 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 15:20:32 traffic type=ftpdlul
+2014/12/26 15:22:41 new start
+2014/12/26 15:22:41 UEtype=HE5776
+2014/12/26 15:22:41 serverip=172.24.186.199,,,
+2014/12/26 15:22:41 serial port=com12
+2014/12/26 15:22:41 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 15:22:41 traffic type=ftpdlul
+2014/12/26 15:28:31 new start
+2014/12/26 15:28:31 UEtype=HE5776
+2014/12/26 15:28:31 serverip=172.24.186.199,,,
+2014/12/26 15:28:31 serial port=com12
+2014/12/26 15:28:32 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 15:28:32 traffic type=ftpdlul
+2014/12/26 15:39:05 new start
+2014/12/26 15:39:05 UEtype=HE5776
+2014/12/26 15:39:05 serverip=172.24.186.199,,,
+2014/12/26 15:39:05 serial port=com12
+2014/12/26 15:39:05 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 15:39:05 traffic type=ftpdlul
+2014/12/26 19:35:19 new start
+2014/12/26 19:35:19 UEtype=HE5776
+2014/12/26 19:35:19 serverip=172.24.186.199,,,
+2014/12/26 19:35:19 serial port=com12
+2014/12/26 19:35:19 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 19:35:19 traffic type=ftpdlul
+2014/12/26 19:41:29 new start
+2014/12/26 19:41:29 UEtype=HE5776
+2014/12/26 19:41:29 serverip=172.24.186.199,,,
+2014/12/26 19:41:29 serial port=com12
+2014/12/26 19:41:30 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 19:41:30 traffic type=ftpdlul
+2014/12/26 19:58:55 new start
+2014/12/26 19:58:55 UEtype=HE5776
+2014/12/26 19:58:55 serverip=172.24.186.199,,,
+2014/12/26 19:58:55 serial port=com12
+2014/12/26 19:58:56 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 19:58:56 traffic type=ftpdlul
+2014/12/26 20:00:40 new start
+2014/12/26 20:00:40 UEtype=HE5776
+2014/12/26 20:00:40 serverip=172.24.186.199,,,
+2014/12/26 20:00:40 serial port=com12
+2014/12/26 20:00:41 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 20:00:41 traffic type=ftpdlul
+2014/12/26 20:03:09 new start
+2014/12/26 20:03:09 UEtype=HE5776
+2014/12/26 20:03:09 serverip=172.24.186.199,,,
+2014/12/26 20:03:09 serial port=com12
+2014/12/26 20:03:10 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 20:03:10 traffic type=ftpdlul
+2014/12/26 20:06:10 new start
+2014/12/26 20:06:10 UEtype=HE5776
+2014/12/26 20:06:10 serverip=172.24.186.199,,,
+2014/12/26 20:06:10 serial port=com12
+2014/12/26 20:06:11 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 20:06:11 traffic type=ftpdlul
+2014/12/26 21:47:19 new start
+2014/12/26 21:47:19 UEtype=HE5776
+2014/12/26 21:47:19 serverip=172.24.186.199,,,
+2014/12/26 21:47:19 serial port=com12
+2014/12/26 21:47:19 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 21:47:19 traffic type=ftpdlul
+2014/12/26 21:51:14 new start
+2014/12/26 21:51:14 UEtype=HE5776
+2014/12/26 21:51:14 serverip=172.24.186.199,,,
+2014/12/26 21:51:14 serial port=com12
+2014/12/26 21:51:15 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/26 21:51:15 traffic type=ftpdlul
+2014/12/27 09:28:25 new start
+2014/12/27 09:28:25 UEtype=HE5776
+2014/12/27 09:28:25 serverip=172.24.186.199,,,
+2014/12/27 09:28:25 serial port=com12
+2014/12/27 09:28:25 netcard device name :HUAWEI Mobile Connect - Network Card
+2014/12/27 09:28:25 traffic type=ftpdlul
+2015/04/22 12:16:54 new start
+2015/04/22 12:16:54 UEtype=HE5776
+2015/04/22 12:16:54 serverip=172.24.186.199,,,
+2015/04/22 12:16:54 serial port=com23
+2015/04/22 12:16:54 netcard device name :Realtek PCIe GBE Family Controller
+2015/04/22 12:16:54 traffic type=ftpdlul
+2015/04/22 12:19:05 new start
+2015/04/22 12:19:05 UEtype=HE5776
+2015/04/22 12:19:05 serverip=172.24.186.199,,,
+2015/04/22 12:19:05 serial port=com23
+2015/04/22 12:19:05 netcard device name :Realtek PCIe GBE Family Controller
+2015/04/22 12:19:05 traffic type=ftpdlul
+2015/04/22 12:25:17 new start
+2015/04/22 12:25:17 UEtype=HE5776
+2015/04/22 12:25:17 serverip=172.24.186.199,,,
+2015/04/22 12:25:17 serial port=com23
+2015/04/22 12:25:17 netcard device name :Realtek PCIe GBE Family Controller
+2015/04/22 12:25:17 traffic type=ftpdlul
+2015/05/13 15:24:34 new start
+2015/05/13 15:24:34 UEtype=HE5776
+2015/05/13 15:24:34 serverip=172.24.186.199,,,
+2015/05/13 15:24:34 serial port=com23
+2015/05/13 15:24:34 netcard device name :Realtek PCIe GBE Family Controller
+2015/05/13 15:24:34 traffic type=ftpdlul
+2016/01/31 15:28:33 new start
+2016/01/31 15:28:33 UEtype=HE5776
+2016/01/31 15:28:33 serverip=172.24.186.199,,,
+2016/01/31 15:28:33 serial port=com23
+2016/01/31 15:28:33 can not find netcard or dial up modem port name is com23
+2016/01/31 16:28:58 new start
+2016/01/31 16:28:58 UEtype=HE5776
+2016/01/31 16:28:58 serverip=172.24.186.199,,,
+2016/01/31 16:28:58 serial port=com23
+2016/01/31 16:28:59 can not find netcard or dial up modem port name is com23
+2016/01/31 16:56:13 new start
+2016/01/31 16:56:13 UEtype=HE5776
+2016/01/31 16:56:13 serverip=172.24.186.199,,,
+2016/01/31 16:56:13 serial port=com2
+2016/01/31 16:56:14 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/01/31 16:56:14 traffic type=ftpdlul
+2016/01/31 17:16:14 new start
+2016/01/31 17:16:14 UEtype=HE5776
+2016/01/31 17:16:14 serverip=172.24.186.199,,,
+2016/01/31 17:16:14 serial port=com2
+2016/01/31 17:16:15 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/01/31 17:16:15 traffic type=ftpdlul
+2016/01/31 17:18:38 new start
+2016/01/31 17:18:38 UEtype=HE5776
+2016/01/31 17:18:38 serverip=127.0.0.1,,,
+2016/01/31 17:18:38 serial port=com2
+2016/01/31 17:18:38 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/01/31 17:18:38 traffic type=ftpdlul
+2016/01/31 18:48:13 new start
+2016/01/31 18:48:13 UEtype=HE5776
+2016/01/31 18:48:13 serverip=127.0.0.1,,,
+2016/01/31 18:48:13 serial port=com2
+2016/01/31 18:48:13 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/01/31 18:48:13 traffic type=ftpdlul
+2016/01/31 18:53:36 new start
+2016/01/31 18:53:36 UEtype=HE5776
+2016/01/31 18:53:36 serverip=127.0.0.1,,,
+2016/01/31 18:53:36 serial port=com2
+2016/01/31 18:53:37 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/01/31 18:53:37 traffic type=ftpdlul
+2016/01/31 19:30:51 new start
+2016/01/31 19:30:51 UEtype=HE5776
+2016/01/31 19:30:51 serverip=192.168.18.105,,,
+2016/01/31 19:30:51 serial port=com2
+2016/01/31 19:30:51 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/01/31 19:30:51 traffic type=ftpdlul
+2016/01/31 21:52:12 new start
+2016/01/31 21:52:12 UEtype=HE5776
+2016/01/31 21:52:12 serverip=192.168.56.103,,,
+2016/01/31 21:52:12 serial port=com2
+2016/01/31 21:52:12 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/01/31 21:52:12 traffic type=ftpdlul
+2016/01/31 21:53:59 new start
+2016/01/31 21:53:59 UEtype=HE5776
+2016/01/31 21:53:59 serverip=192.168.56.103,,,
+2016/01/31 21:53:59 serial port=com2
+2016/01/31 21:53:59 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/01/31 21:53:59 traffic type=ftpdlul
+2016/01/31 21:55:16 new start
+2016/01/31 21:55:16 UEtype=HE5776
+2016/01/31 21:55:16 serverip=192.168.56.103,,,
+2016/01/31 21:55:16 serial port=com2
+2016/01/31 21:55:17 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/01/31 21:55:17 traffic type=ftpdlul
+2016/01/31 22:01:41 new start
+2016/01/31 22:01:41 UEtype=HE5776
+2016/01/31 22:01:41 serverip=192.168.56.103,,,
+2016/01/31 22:01:41 serial port=com2
+2016/01/31 22:01:42 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/01/31 22:01:42 traffic type=ftpdlul
+2016/01/31 22:17:04 new start
+2016/01/31 22:17:04 UEtype=HE5776
+2016/01/31 22:17:04 serverip=192.168.56.103,,,
+2016/01/31 22:17:04 serial port=com2
+2016/01/31 22:17:05 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/01/31 22:17:05 traffic type=ftpdlul
+2016/01/31 22:19:40 new start
+2016/01/31 22:19:40 UEtype=HE5776
+2016/01/31 22:19:40 serverip=192.168.56.103,,,
+2016/01/31 22:19:40 serial port=com2
+2016/01/31 22:19:41 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/01/31 22:19:41 traffic type=ftpdlul
+2016/01/31 22:21:18 new start
+2016/01/31 22:21:18 UEtype=HE5776
+2016/01/31 22:21:18 serverip=192.168.56.103,,,
+2016/01/31 22:21:18 serial port=com2
+2016/01/31 22:21:19 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/01/31 22:21:19 traffic type=ftpdlul
+2016/01/31 22:28:06 new start
+2016/01/31 22:28:06 UEtype=HE5776
+2016/01/31 22:28:06 serverip=192.168.56.103,,,
+2016/01/31 22:28:06 serial port=com2
+2016/01/31 22:28:07 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/01/31 22:28:07 traffic type=ftpdlul
+2016/01/31 22:56:33 new start
+2016/01/31 22:56:33 UEtype=HE5776
+2016/01/31 22:56:33 serverip=192.168.56.103,,,
+2016/01/31 22:56:33 serial port=com2
+2016/01/31 22:56:34 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/01/31 22:56:34 traffic type=ftpdlul
+2016/02/01 15:46:27 new start
+2016/02/01 15:46:27 UEtype=HE5776
+2016/02/01 15:46:27 serverip=192.168.56.103,,,
+2016/02/01 15:46:27 serial port=com2
+2016/02/01 15:46:27 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/01 15:46:27 traffic type=ftpdlul
+2016/02/01 15:55:54 new start
+2016/02/01 15:55:54 UEtype=HE5776
+2016/02/01 15:55:54 serverip=192.168.56.103,,,
+2016/02/01 15:55:54 serial port=com2
+2016/02/01 15:55:54 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/01 15:55:54 traffic type=ftpdlul
+2016/02/01 16:43:55 new start
+2016/02/01 16:43:55 UEtype=HE5776
+2016/02/01 16:43:55 serverip=192.168.56.103,,,
+2016/02/01 16:43:55 serial port=com2
+2016/02/01 16:43:55 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/01 16:43:55 traffic type=ftpdlul
+2016/02/01 16:45:58 new start
+2016/02/01 16:45:58 UEtype=HE5776
+2016/02/01 16:45:58 serverip=192.168.56.103,,,
+2016/02/01 16:45:58 serial port=com2
+2016/02/01 16:45:58 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/01 16:45:58 traffic type=ftpdlul
+2016/02/06 12:34:30 new start
+2016/02/06 12:34:30 UEtype=HE5776
+2016/02/06 12:34:30 serverip=192.168.56.103,,,
+2016/02/06 12:34:30 serial port=com2
+2016/02/06 12:34:31 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/06 12:34:31 traffic type=ftpdlul
+2016/02/06 12:47:43 new start
+2016/02/06 12:47:43 UEtype=HE5776
+2016/02/06 12:47:43 serverip=192.168.56.103,,,
+2016/02/06 12:47:43 serial port=com2
+2016/02/06 12:47:44 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/06 12:47:44 traffic type=ftpdlul
+2016/02/06 12:51:00 new start
+2016/02/06 12:51:00 UEtype=HE5776
+2016/02/06 12:51:00 serverip=192.168.56.103,,,
+2016/02/06 12:51:00 serial port=com2
+2016/02/06 12:51:01 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/06 12:51:01 traffic type=ftpdlul
+2016/02/06 12:59:02 new start
+2016/02/06 12:59:02 UEtype=HE5776
+2016/02/06 12:59:02 serverip=192.168.56.103,,,
+2016/02/06 12:59:02 serial port=com2
+2016/02/06 12:59:02 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/06 12:59:02 traffic type=ftpdlul
+2016/02/06 13:13:57 new start
+2016/02/06 13:13:57 UEtype=HE5776
+2016/02/06 13:13:57 serverip=192.168.56.103,,,
+2016/02/06 13:13:57 serial port=com2
+2016/02/06 13:13:57 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/06 13:13:57 traffic type=ftpdlul
+2016/02/06 14:33:02 new start
+2016/02/06 14:33:02 UEtype=HE5776
+2016/02/06 14:33:02 serverip=192.168.56.103,,,
+2016/02/06 14:33:02 serial port=com2
+2016/02/06 14:33:03 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/06 14:33:03 traffic type=ftpdlul
+2016/02/06 14:50:03 new start
+2016/02/06 14:50:03 UEtype=HE5776
+2016/02/06 14:50:03 serverip=192.168.56.103,,,
+2016/02/06 14:50:03 serial port=com2
+2016/02/06 14:50:03 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/06 14:50:03 traffic type=ftpdlul
+2016/02/06 15:40:32 new start
+2016/02/06 15:40:32 UEtype=HE5776
+2016/02/06 15:40:32 serverip=192.168.56.103,,,
+2016/02/06 15:40:32 serial port=com2
+2016/02/06 15:40:32 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/06 15:40:32 traffic type=ftpdlul
+2016/02/06 15:53:34 new start
+2016/02/06 15:53:34 UEtype=HE5776
+2016/02/06 15:53:34 serverip=192.168.56.103,,,
+2016/02/06 15:53:34 serial port=com2
+2016/02/06 15:53:35 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/06 15:53:35 traffic type=ftpdlul
+2016/02/06 15:56:27 new start
+2016/02/06 15:56:27 UEtype=HE5776
+2016/02/06 15:56:27 serverip=192.168.56.103,,,
+2016/02/06 15:56:27 serial port=com2
+2016/02/06 15:56:28 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/06 15:56:28 traffic type=ftpdlul
+2016/02/13 17:32:37 new start
+2016/02/13 17:32:37 UEtype=HE5776
+2016/02/13 17:32:37 serverip=192.168.56.103,,,
+2016/02/13 17:32:37 serial port=com2
+2016/02/13 17:32:37 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/13 17:32:37 traffic type=ftpdlul
+2016/02/13 17:39:38 new start
+2016/02/13 17:39:38 UEtype=HE5776
+2016/02/13 17:39:38 serverip=192.168.56.103,,,
+2016/02/13 17:39:38 serial port=com2
+2016/02/13 17:39:39 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/13 17:39:39 traffic type=ftpdlul
+2016/02/17 10:13:18 new start
+2016/02/17 10:13:18 UEtype=HE5776
+2016/02/17 10:13:18 serverip=192.168.56.103,,,
+2016/02/17 10:13:18 serial port=com2
+2016/02/17 10:13:19 can not find netcard or dial up modem port name is com2
+2016/02/17 10:13:53 new start
+2016/02/17 10:13:53 UEtype=HE5776
+2016/02/17 10:13:53 serverip=192.168.56.103,,,
+2016/02/17 10:13:53 serial port=com2
+2016/02/17 10:13:54 can not find netcard or dial up modem port name is com2
+2016/02/17 10:24:34 new start
+2016/02/17 10:24:34 UEtype=HE5776
+2016/02/17 10:24:34 serverip=192.168.56.103,,,
+2016/02/17 10:24:34 serial port=com2
+2016/02/17 10:24:34 can not find netcard or dial up modem port name is com2
+2016/02/17 10:25:24 new start
+2016/02/17 10:25:24 UEtype=HE5776
+2016/02/17 10:25:24 serverip=192.168.56.103,,,
+2016/02/17 10:25:24 serial port=com12
+2016/02/17 10:25:25 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/17 10:25:25 traffic type=ftpdlul
+2016/02/17 10:26:04 new start
+2016/02/17 10:26:04 UEtype=HE5776
+2016/02/17 10:26:04 serverip=192.168.56.103,,,
+2016/02/17 10:26:04 serial port=com12
+2016/02/17 10:26:05 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/17 10:26:05 traffic type=ftpdlul
+2016/02/17 10:42:24 new start
+2016/02/17 10:42:24 UEtype=HE5776
+2016/02/17 10:42:24 serverip=192.168.56.103,,,
+2016/02/17 10:42:24 serial port=com12
+2016/02/17 10:42:24 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/17 10:42:24 traffic type=ftpdlul
+2016/02/17 10:44:36 new start
+2016/02/17 10:44:36 UEtype=HE5776
+2016/02/17 10:44:36 serverip=192.168.56.103,,,
+2016/02/17 10:44:36 serial port=com12
+2016/02/17 10:44:36 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/17 10:44:36 traffic type=ftpdlul
+2016/02/17 12:21:39 new start
+2016/02/17 12:21:39 UEtype=HE5776
+2016/02/17 12:21:39 serverip=192.168.56.103,,,
+2016/02/17 12:21:39 serial port=com12
+2016/02/17 12:21:40 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/17 12:21:40 traffic type=ftpdlul
+2016/02/19 09:58:43 new start
+2016/02/19 09:58:43 UEtype=HE5776
+2016/02/19 09:58:43 serverip=192.168.56.103,,,
+2016/02/19 09:58:43 serial port=com12
+2016/02/19 09:58:44 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/19 09:58:44 traffic type=ftpdlul
+2016/02/19 10:04:32 new start
+2016/02/19 10:04:32 UEtype=HE5776
+2016/02/19 10:04:32 serverip=192.168.56.103,,,
+2016/02/19 10:04:32 serial port=com12
+2016/02/19 10:04:32 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/19 10:04:32 traffic type=ftpdlul
+2016/02/19 10:06:05 new start
+2016/02/19 10:06:05 UEtype=HE5776
+2016/02/19 10:06:05 serverip=192.168.56.103,,,
+2016/02/19 10:06:05 serial port=com12
+2016/02/19 10:06:06 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/19 10:06:06 traffic type=ftpdlul
+2016/02/19 10:08:22 new start
+2016/02/19 10:08:22 UEtype=HE5776
+2016/02/19 10:08:22 serverip=192.168.56.103,,,
+2016/02/19 10:08:22 serial port=com12
+2016/02/19 10:08:23 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/19 10:08:23 traffic type=ftpdlul
+2016/02/19 11:57:29 new start
+2016/02/19 11:57:29 UEtype=HE5776
+2016/02/19 11:57:29 serverip=192.168.56.103,,,
+2016/02/19 11:57:29 serial port=com12
+2016/02/19 11:57:30 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/19 11:57:30 traffic type=ftpdlul
+2016/02/19 11:58:49 new start
+2016/02/19 11:58:49 UEtype=HE5776
+2016/02/19 11:58:49 serverip=192.168.56.103,,,
+2016/02/19 11:58:49 serial port=com12
+2016/02/19 11:58:50 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/19 11:58:50 traffic type=ftpdlul
+2016/02/19 12:01:13 new start
+2016/02/19 12:01:13 UEtype=HE5776
+2016/02/19 12:01:13 serverip=192.168.56.103,,,
+2016/02/19 12:01:13 serial port=com12
+2016/02/19 12:01:14 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/19 12:01:14 traffic type=ftpdlul
+2016/02/19 12:10:19 new start
+2016/02/19 12:10:19 UEtype=HE5776
+2016/02/19 12:10:19 serverip=192.168.56.103,,,
+2016/02/19 12:10:19 serial port=com12
+2016/02/19 12:10:20 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/19 12:10:20 traffic type=ftpdlul
+2016/02/20 23:15:37 new start
+2016/02/20 23:15:37 UEtype=HE5776
+2016/02/20 23:15:37 serverip=192.168.56.103,,,
+2016/02/20 23:15:37 serial port=com12
+2016/02/20 23:15:37 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/20 23:15:37 traffic type=ftpdlul
+2016/02/20 23:19:41 new start
+2016/02/20 23:19:42 UEtype=HE5776
+2016/02/20 23:19:43 serverip=192.168.56.103,,,
+2016/02/20 23:19:48 serial port=com12
+2016/02/20 23:19:49 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/20 23:19:49 traffic type=ftpdlul
+2016/02/20 23:22:21 new start
+2016/02/20 23:22:24 UEtype=HE5776
+2016/02/20 23:22:24 serverip=192.168.56.103,,,
+2016/02/20 23:22:24 serial port=com12
+2016/02/20 23:22:24 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/20 23:22:24 traffic type=ftpdlul
+2016/02/20 23:22:53 new start
+2016/02/20 23:22:53 UEtype=HE5776
+2016/02/20 23:22:53 serverip=192.168.56.103,,,
+2016/02/20 23:22:53 serial port=com12
+2016/02/20 23:22:53 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/20 23:22:53 traffic type=ftpdlul
+2016/02/20 23:34:44 new start
+2016/02/20 23:34:44 UEtype=HE5776
+2016/02/20 23:34:44 serverip=192.168.56.103,,,
+2016/02/20 23:34:44 serial port=com12
+2016/02/20 23:34:44 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/20 23:34:44 traffic type=ftpdlul
+2016/02/20 23:40:45 new start
+2016/02/20 23:40:46 UEtype=HE5776
+2016/02/20 23:40:46 serverip=192.168.56.103,,,
+2016/02/20 23:40:46 serial port=com12
+2016/02/20 23:40:46 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/20 23:40:46 traffic type=ftpdlul
+2016/02/20 23:44:57 new start
+2016/02/20 23:44:57 UEtype=HE5776
+2016/02/20 23:44:57 serverip=192.168.56.103,,,
+2016/02/20 23:44:57 serial port=com12
+2016/02/20 23:44:57 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/20 23:44:57 traffic type=ftpdlul
+2016/02/20 23:48:22 new start
+2016/02/20 23:48:22 UEtype=HE5776
+2016/02/20 23:48:22 serverip=192.168.56.103,,,
+2016/02/20 23:48:22 serial port=com12
+2016/02/20 23:48:22 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/20 23:48:22 traffic type=ftpdlul
+2016/02/20 23:53:46 new start
+2016/02/20 23:53:46 UEtype=HE5776
+2016/02/20 23:53:46 serverip=192.168.56.103,,,
+2016/02/20 23:53:46 serial port=com12
+2016/02/20 23:53:46 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/20 23:53:46 traffic type=ftpdlul
+2016/02/20 23:55:58 new start
+2016/02/20 23:55:58 UEtype=HE5776
+2016/02/20 23:55:58 serverip=192.168.56.103,,,
+2016/02/20 23:55:59 serial port=com12
+2016/02/20 23:55:59 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/20 23:55:59 traffic type=ftpdlul
+2016/02/21 09:42:08 new start
+2016/02/21 09:42:08 UEtype=HE5776
+2016/02/21 09:42:08 serverip=192.168.56.103,,,
+2016/02/21 09:42:08 serial port=com12
+2016/02/21 09:42:08 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/21 09:42:08 traffic type=ftpdlul
+2016/02/21 11:06:31 new start
+2016/02/21 11:06:31 UEtype=HE5776
+2016/02/21 11:06:31 serverip=192.168.56.103,,,
+2016/02/21 11:06:32 serial port=com12
+2016/02/21 11:06:32 netcard device name :Intel[R] PRO_1000 MT Desktop Adapter
+2016/02/21 11:06:32 traffic type=ftpdlul

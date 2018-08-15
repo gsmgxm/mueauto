@@ -1,0 +1,218 @@
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\Mueclient.vbproj.GenerateResource.Cache
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.pdb
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.xml
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form1.resources
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Resources.resources
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.xml
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.pdb
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form2.resources
+C:\Documents and Settings\lte.CNG0153B8W\My Documents\Visual Studio 2008\Projects\WindowsApplication5\obj\Debug\MUEclient.exe
+C:\Documents and Settings\lte.CNG0153B8W\My Documents\Visual Studio 2008\Projects\WindowsApplication5\obj\Debug\MUEclient.xml
+C:\Documents and Settings\lte.CNG0153B8W\My Documents\Visual Studio 2008\Projects\WindowsApplication5\obj\Debug\MUEclient.pdb
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.xml
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.pdb
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.pdb
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.xml
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\ResolveAssemblyReference.cache
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form1.resources
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form2.resources
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Resources.resources
+E:\c\Visual Studio 2008\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\Mueclient.vbproj.GenerateResource.Cache
+Z:\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe
+Z:\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.xml
+Z:\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.pdb
+Z:\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe
+Z:\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.pdb
+Z:\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.xml
+Z:\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\ResolveAssemblyReference.cache
+Z:\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form1.resources
+Z:\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form2.resources
+Z:\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Resources.resources
+Z:\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\Mueclient.vbproj.GenerateResource.Cache
+Z:\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe.manifest
+Z:\Projects\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.application
+Z:\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.TrustInfo.xml
+Z:\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe.manifest
+Z:\Projects\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.application
+C:\project\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe
+C:\project\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.xml
+C:\project\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.pdb
+C:\project\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe
+C:\project\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.pdb
+C:\project\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.xml
+C:\project\WindowsApplication5\WindowsApplication5\obj\Debug\ResolveAssemblyReference.cache
+C:\project\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form1.resources
+C:\project\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form2.resources
+C:\project\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Resources.resources
+C:\project\WindowsApplication5\WindowsApplication5\obj\Debug\Mueclient.vbproj.GenerateResource.Cache
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.xml
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.pdb
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.pdb
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.xml
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\ResolveAssemblyReference.cache
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form1.resources
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form2.resources
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Resources.resources
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\Mueclient.vbproj.GenerateResource.Cache
+C:\project\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe
+C:\project\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.xml
+C:\project\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.pdb
+C:\project\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\ResolveAssemblyReference.cache
+C:\project\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form1.resources
+C:\project\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form2.resources
+C:\project\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Resources.resources
+C:\project\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\Mueclient.vbproj.GenerateResource.Cache
+C:\project\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe
+C:\project\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.pdb
+C:\project\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.xml
+E:\新建文件夹 (2)\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe
+E:\新建文件夹 (2)\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.pdb
+E:\新建文件夹 (2)\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.xml
+E:\新建文件夹 (2)\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹 (2)\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form1.resources
+E:\新建文件夹 (2)\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form2.resources
+E:\新建文件夹 (2)\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Resources.resources
+E:\新建文件夹 (2)\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\Mueclient.vbproj.GenerateResource.Cache
+E:\新建文件夹 (2)\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe
+E:\新建文件夹 (2)\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.xml
+E:\新建文件夹 (2)\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.pdb
+C:\project\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe.manifest
+C:\project\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.application
+C:\project\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.TrustInfo.xml
+C:\project\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe.manifest
+C:\project\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.application
+D:\WindowsApplication5\WindowsApplication5\obj\Debug\ResolveAssemblyReference.cache
+D:\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form1.resources
+D:\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form2.resources
+D:\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Resources.resources
+D:\WindowsApplication5\WindowsApplication5\obj\Debug\Mueclient.vbproj.GenerateResource.Cache
+D:\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe
+D:\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.xml
+D:\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.pdb
+D:\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe.manifest
+D:\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.application
+D:\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe
+D:\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.pdb
+D:\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.xml
+D:\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.TrustInfo.xml
+D:\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe.manifest
+D:\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.application
+D:\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe.manifest
+D:\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.application
+D:\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe
+D:\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.pdb
+D:\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.xml
+D:\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\ResolveAssemblyReference.cache
+D:\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form1.resources
+D:\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form2.resources
+D:\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Resources.resources
+D:\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\Mueclient.vbproj.GenerateResource.Cache
+D:\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.TrustInfo.xml
+D:\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe.manifest
+D:\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.application
+D:\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe
+D:\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.xml
+D:\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.pdb
+C:\project\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe
+C:\project\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.xml
+C:\project\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.pdb
+C:\project\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe
+C:\project\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.pdb
+C:\project\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.xml
+C:\project\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\ResolveAssemblyReference.cache
+C:\project\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form1.resources
+C:\project\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form2.resources
+C:\project\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Resources.resources
+C:\project\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\Mueclient.vbproj.GenerateResource.Cache
+D:\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe
+D:\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.xml
+D:\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.pdb
+D:\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe.manifest
+D:\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.application
+D:\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe
+D:\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.pdb
+D:\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.xml
+D:\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\ResolveAssemblyReference.cache
+D:\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form1.resources
+D:\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form2.resources
+D:\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Resources.resources
+D:\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\Mueclient.vbproj.GenerateResource.Cache
+D:\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.TrustInfo.xml
+D:\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe.manifest
+D:\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.application
+D:\WindowsApplication5\obj\Debug\MUEclient.exe
+D:\WindowsApplication5\obj\Debug\MUEclient.xml
+D:\WindowsApplication5\obj\Debug\MUEclient.pdb
+D:\WindowsApplication5\bin\Debug\MUEclient.exe.manifest
+D:\WindowsApplication5\bin\Debug\MUEclient.application
+D:\WindowsApplication5\bin\Debug\MUEclient.exe
+D:\WindowsApplication5\bin\Debug\MUEclient.pdb
+D:\WindowsApplication5\bin\Debug\MUEclient.xml
+D:\WindowsApplication5\obj\Debug\ResolveAssemblyReference.cache
+D:\WindowsApplication5\obj\Debug\MUEclient.Form1.resources
+D:\WindowsApplication5\obj\Debug\MUEclient.Form2.resources
+D:\WindowsApplication5\obj\Debug\MUEclient.Resources.resources
+D:\WindowsApplication5\obj\Debug\Mueclient.vbproj.GenerateResource.Cache
+D:\WindowsApplication5\obj\Debug\MUEclient.TrustInfo.xml
+D:\WindowsApplication5\obj\Debug\MUEclient.exe.manifest
+D:\WindowsApplication5\obj\Debug\MUEclient.application
+C:\project\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe.manifest
+C:\project\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.application
+C:\project\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.TrustInfo.xml
+C:\project\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe.manifest
+C:\project\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.application
+C:\WindowsApplication5\obj\Debug\MUEclient.exe
+C:\WindowsApplication5\obj\Debug\MUEclient.xml
+C:\WindowsApplication5\obj\Debug\MUEclient.pdb
+C:\WindowsApplication5\bin\Debug\MUEclient.exe.manifest
+C:\WindowsApplication5\bin\Debug\MUEclient.application
+C:\WindowsApplication5\bin\Debug\MUEclient.exe
+C:\WindowsApplication5\bin\Debug\MUEclient.pdb
+C:\WindowsApplication5\bin\Debug\MUEclient.xml
+C:\WindowsApplication5\obj\Debug\ResolveAssemblyReference.cache
+C:\WindowsApplication5\obj\Debug\MUEclient.Form1.resources
+C:\WindowsApplication5\obj\Debug\MUEclient.Form2.resources
+C:\WindowsApplication5\obj\Debug\MUEclient.Resources.resources
+C:\WindowsApplication5\obj\Debug\Mueclient.vbproj.GenerateResource.Cache
+C:\WindowsApplication5\obj\Debug\MUEclient.TrustInfo.xml
+C:\WindowsApplication5\obj\Debug\MUEclient.exe.manifest
+C:\WindowsApplication5\obj\Debug\MUEclient.application
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe.manifest
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.application
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.pdb
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.xml
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\ResolveAssemblyReference.cache
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form1.resources
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form2.resources
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Resources.resources
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\Mueclient.vbproj.GenerateResource.Cache
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.TrustInfo.xml
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe.manifest
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.application
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.xml
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.pdb
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe.manifest
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.application
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.exe
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.pdb
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\bin\Debug\MUEclient.xml
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form1.resources
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Form2.resources
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.Resources.resources
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\Mueclient.vbproj.GenerateResource.Cache
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.TrustInfo.xml
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe.manifest
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.application
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.exe
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.xml
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication5\WindowsApplication5\obj\Debug\MUEclient.pdb

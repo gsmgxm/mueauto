@@ -1,0 +1,10 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>172.31.11.2 lte asb#1234 DL 2 temp\1.log com12</StartArguments>
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartArguments>10.9.35.35 endurance endurance UL 1 5 /3 d:\2</StartArguments>
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+</Project>

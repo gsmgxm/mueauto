@@ -1,0 +1,60 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MUEcon
+</name>
+</assembly>
+<members>
+<member name="M:MUEcon.Form4.ReceiveEventHandler(System.Object,NTCPMSG.Event.ReceiveEventArgs)">
+	<summary>
+ DataReceived event will be called back when server get message from client which connect to.
+ </summary>
+	<param name="sender"></param>
+	<param name="args"></param>
+</member><member name="M:MUEcon.Form4.DisconnectEventHandler(System.Object,NTCPMSG.Event.DisconnectEventArgs)">
+	<summary>
+ RemoteDisconnected event will be called back when specified client disconnected.
+ </summary>
+	<param name="sender"></param>
+	<param name="args"></param>
+</member><member name="M:MUEcon.Form4.AcceptedEventHandler(System.Object,NTCPMSG.Event.AcceptEventArgs)">
+	<summary>
+ Accepted event will be called back when specified client connected
+ </summary>
+	<param name="sender"></param>
+	<param name="args"></param>
+</member><member name="P:MUEcon.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MUEcon.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:MUEcon.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:MUEcon.Form2.ReceiveEventHandler(System.Object,NTCPMSG.Event.ReceiveEventArgs)">
+	<summary>
+ DataReceived event will be called back when server get message from client which connect to.
+ </summary>
+	<param name="sender"></param>
+	<param name="args"></param>
+</member><member name="M:MUEcon.Form2.DisconnectEventHandler(System.Object,NTCPMSG.Event.DisconnectEventArgs)">
+	<summary>
+ RemoteDisconnected event will be called back when specified client disconnected.
+ </summary>
+	<param name="sender"></param>
+	<param name="args"></param>
+</member><member name="M:MUEcon.Form2.AcceptedEventHandler(System.Object,NTCPMSG.Event.AcceptEventArgs)">
+	<summary>
+ Accepted event will be called back when specified client connected
+ </summary>
+	<param name="sender"></param>
+	<param name="args"></param>
+</member>
+</members>
+</doc>

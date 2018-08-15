@@ -1,0 +1,10 @@
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\bin\Release\UEpowerreset.exe
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\bin\Release\UEpowerreset.pdb
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\bin\Release\UEpowerreset.xml
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\obj\Release\ResolveAssemblyReference.cache
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\obj\Release\UEpowerreset.vbproj.GenerateResource.Cache
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\obj\Release\UEpowerreset.exe
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\obj\Release\UEpowerreset.xml
+C:\Users\LTE\Documents\Visual Studio 2008\Projects\UEpowerreset\UEpowerreset\obj\Release\UEpowerreset.pdb

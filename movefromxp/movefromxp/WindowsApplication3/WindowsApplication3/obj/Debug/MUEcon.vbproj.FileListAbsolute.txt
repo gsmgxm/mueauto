@@ -1,0 +1,232 @@
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Interop.MSWinsockLib.dll
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Interop.MSWinsockLib.dll
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.ResolveComReference.cache
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form4.resources
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.MDIForm1.resources
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.monitorform.resources
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.GenerateResource.Cache
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.exe
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.pdb
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.xml
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe.licenses
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.xml
+C:\Documents and Settings\xingming\My Documents\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.pdb
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.ResolveComReference.cache
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.xml
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.pdb
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.exe
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.pdb
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.xml
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\ResolveAssemblyReference.cache
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form4.resources
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.MDIForm1.resources
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.monitorform.resources
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.GenerateResource.Cache
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe.licenses
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Dialog1.resources
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Interop.MSWinsockLib.dll
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\AxInterop.MSWinsockLib.dll
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.ResolveComReference.cache
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.xml
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.pdb
+Z:\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.exe
+Z:\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.pdb
+Z:\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.xml
+Z:\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Interop.MSWinsockLib.dll
+Z:\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\AxInterop.MSWinsockLib.dll
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\ResolveAssemblyReference.cache
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Dialog1.resources
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form4.resources
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.MDIForm1.resources
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.monitorform.resources
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.GenerateResource.Cache
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe.licenses
+Z:\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.exe.manifest
+Z:\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.application
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.TrustInfo.xml
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe.manifest
+Z:\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.application
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\Interop.MSWinsockLib.dll
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\AxInterop.MSWinsockLib.dll
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.exe.manifest
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.application
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\Interop.MSWinsockLib.dll
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\bin\Debug\AxInterop.MSWinsockLib.dll
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.TrustInfo.xml
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe.manifest
+E:\c\Visual Studio 2008\Projects\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.application
+C:\project\WindowsApplication3\WindowsApplication3\obj\Debug\Interop.MSWinsockLib.dll
+C:\project\WindowsApplication3\WindowsApplication3\obj\Debug\AxInterop.MSWinsockLib.dll
+C:\project\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.ResolveComReference.cache
+C:\project\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe
+C:\project\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.xml
+C:\project\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.pdb
+C:\project\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.exe
+C:\project\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.pdb
+C:\project\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.xml
+C:\project\WindowsApplication3\WindowsApplication3\bin\Debug\Interop.MSWinsockLib.dll
+C:\project\WindowsApplication3\WindowsApplication3\bin\Debug\AxInterop.MSWinsockLib.dll
+C:\project\WindowsApplication3\WindowsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\project\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Dialog1.resources
+C:\project\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+C:\project\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+C:\project\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form4.resources
+C:\project\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.MDIForm1.resources
+C:\project\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.monitorform.resources
+C:\project\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\project\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.GenerateResource.Cache
+C:\project\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe.licenses
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.exe
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.pdb
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.xml
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\Interop.MSWinsockLib.dll
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\AxInterop.MSWinsockLib.dll
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\ResolveAssemblyReference.cache
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\Interop.MSWinsockLib.dll
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\AxInterop.MSWinsockLib.dll
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.ResolveComReference.cache
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Dialog1.resources
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form4.resources
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.MDIForm1.resources
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.monitorform.resources
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.GenerateResource.Cache
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe.licenses
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.xml
+E:\c\Visual Studio 2008\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.pdb
+C:\project\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\project\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Dialog1.resources
+C:\project\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+C:\project\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+C:\project\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form4.resources
+C:\project\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.MDIForm1.resources
+C:\project\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.monitorform.resources
+C:\project\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+C:\project\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.GenerateResource.Cache
+C:\project\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe.licenses
+C:\project\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe
+C:\project\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.xml
+C:\project\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.pdb
+C:\project\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.exe
+C:\project\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.pdb
+C:\project\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.xml
+C:\project\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsFormsApplication1.dll
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.xml
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.pdb
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\ResolveAssemblyReference.cache
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Dialog1.resources
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form4.resources
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.MDIForm1.resources
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.monitorform.resources
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.GenerateResource.Cache
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe.licenses
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.exe
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.pdb
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.xml
+E:\新建文件夹 (2)\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsFormsApplication1.dll
+D:\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe
+D:\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.xml
+D:\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.pdb
+D:\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.exe
+D:\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.pdb
+D:\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.xml
+D:\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsFormsApplication1.dll
+D:\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\ResolveAssemblyReference.cache
+D:\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Dialog1.resources
+D:\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+D:\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+D:\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form4.resources
+D:\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.MDIForm1.resources
+D:\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.monitorform.resources
+D:\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+D:\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.GenerateResource.Cache
+D:\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe.licenses
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.exe
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.pdb
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.xml
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsFormsApplication1.dll
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.GenerateResource.Cache
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe.licenses
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.xml
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.pdb
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.xml
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.pdb
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.exe
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.pdb
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.xml
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsFormsApplication1.dll
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\ResolveAssemblyReference.cache
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Dialog1.resources
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form2.resources
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form3.resources
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Form4.resources
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.MDIForm1.resources
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.monitorform.resources
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\WindowsApplication3.Resources.resources
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.GenerateResource.Cache
+D:\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe.licenses
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.Dialog1.resources
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.Form2.resources
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.Form3.resources
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.Form4.resources
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.MDIForm1.resources
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.monitorform.resources
+C:\project\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.Resources.resources
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.xml
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.pdb
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.exe
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.pdb
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.xml
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsFormsApplication1.dll
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.Dialog1.resources
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.Form2.resources
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.Form3.resources
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.Form4.resources
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.MDIForm1.resources
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.monitorform.resources
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.Resources.resources
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.GenerateResource.Cache
+C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe.licenses
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.xml
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.pdb
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.exe
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.pdb
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.xml
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsFormsApplication1.dll
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.Dialog1.resources
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.Form2.resources
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.Form3.resources
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.Form4.resources
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.MDIForm1.resources
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.monitorform.resources
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.Resources.resources
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.GenerateResource.Cache
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe.licenses

@@ -1,0 +1,9 @@
+C:\project\movefromxp\movefromxp\WindowsApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\project\movefromxp\movefromxp\WindowsApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\project\movefromxp\movefromxp\WindowsApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.xml
+C:\project\movefromxp\movefromxp\WindowsApplication3\ConsoleApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\project\movefromxp\movefromxp\WindowsApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.Resources.resources
+C:\project\movefromxp\movefromxp\WindowsApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.vbproj.GenerateResource.Cache
+C:\project\movefromxp\movefromxp\WindowsApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\project\movefromxp\movefromxp\WindowsApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.xml
+C:\project\movefromxp\movefromxp\WindowsApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
