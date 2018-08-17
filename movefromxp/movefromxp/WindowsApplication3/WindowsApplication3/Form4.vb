@@ -305,7 +305,9 @@ Friend Class Form4
         Dim ueipstrs As New Collection
         Dim uestartlogs As New Collection
         Dim haverun As String
-
+        'Timer2.Enabled = True
+        'Timer3.Enabled = True
+        Timer1.Enabled = True
         runmode = ""
         UEtypestr = ""
         MDIForm1.state = "running UEs"
@@ -708,8 +710,9 @@ Friend Class Form4
         setallcursor(1)
         'Timer2.Enabled = True
         'Timer3.Enabled = True
-        'Timer1.Enabled = True
+        Timer1.Enabled = True
         MDIForm1.state = "idle"
+        MDIForm1.ToolStripStatusLabel1.Text = ""
     End Sub
 
     Private Sub Command8_Click(ByVal eventSender As System.Object, ByVal eventArgs As System.EventArgs)
@@ -2198,7 +2201,7 @@ Friend Class Form4
         Dim jj As Integer
         uecipstr = ""
         MDIForm1.state = "reseting UEs"
-        Timer2.Enabled = False
+        'Timer2.Enabled = False
         Timer3.Enabled = False
         Timer1.Enabled = False
         setallbuttonstate(0, False)
@@ -3087,8 +3090,10 @@ Friend Class Form4
     Sub cleargraphic(ByVal WaveformGraph1 As NationalInstruments.UI.WindowsForms.ScatterGraph)
         WaveformGraph1.Plots(0).ClearData()
         WaveformGraph1.Plots(1).ClearData()
-        WaveformGraph1.Cursors(0).XPosition = 0
-        WaveformGraph1.Cursors(1).XPosition = 0
+        For h = 0 To 60
+            WaveformGraph1.Plots(0).PlotXYAppend(0, 0)
+            WaveformGraph1.Plots(1).PlotXYAppend(0, 0)
+        Next
 
     End Sub
 

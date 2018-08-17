@@ -3,7 +3,7 @@
   <asmv1:assemblyIdentity version="1.0.1.0" name="MUEclient.exe" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="MUEclient" version="2.1.9.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="MUEclient" version="2.1.12.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="MUEclient.exe" parameters="" />
   </entryPoint>
   <trustInfo>
@@ -56,14 +56,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MUEclient.exe" size="175104">
-      <assemblyIdentity name="MUEclient" version="2.1.9.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MUEclient.exe" size="175616">
+      <assemblyIdentity name="MUEclient" version="2.1.12.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>uZs0uz45BteQkS92oOaiG1NAMzk=</dsig:DigestValue>
+        <dsig:DigestValue>CODkea2Jh3LSu4QCW2WvbO05qns=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

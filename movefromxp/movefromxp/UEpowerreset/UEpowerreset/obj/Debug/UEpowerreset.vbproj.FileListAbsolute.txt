@@ -18,3 +18,13 @@ C:\project\movefromxp\movefromxp\UEpowerreset\UEpowerreset\obj\Debug\UEpowerrese
 C:\project\movefromxp\movefromxp\UEpowerreset\UEpowerreset\obj\Debug\UEpowerreset.exe
 C:\project\movefromxp\movefromxp\UEpowerreset\UEpowerreset\obj\Debug\UEpowerreset.xml
 C:\project\movefromxp\movefromxp\UEpowerreset\UEpowerreset\obj\Debug\UEpowerreset.pdb
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\UEpowerreset\UEpowerreset\bin\Debug\UEpowerreset.exe
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\UEpowerreset\UEpowerreset\bin\Debug\UEpowerreset.pdb
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\UEpowerreset\UEpowerreset\bin\Debug\UEpowerreset.xml
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\UEpowerreset\UEpowerreset\obj\Debug\ResolveAssemblyReference.cache
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\UEpowerreset\UEpowerreset\obj\Debug\WindowsApplication1.Form1.resources
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\UEpowerreset\UEpowerreset\obj\Debug\WindowsApplication1.Resources.resources
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\UEpowerreset\UEpowerreset\obj\Debug\UEpowerreset.vbproj.GenerateResource.Cache
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\UEpowerreset\UEpowerreset\obj\Debug\UEpowerreset.exe
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\UEpowerreset\UEpowerreset\obj\Debug\UEpowerreset.xml
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\UEpowerreset\UEpowerreset\obj\Debug\UEpowerreset.pdb

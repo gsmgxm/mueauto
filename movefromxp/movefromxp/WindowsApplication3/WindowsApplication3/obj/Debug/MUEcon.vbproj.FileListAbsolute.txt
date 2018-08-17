@@ -214,11 +214,9 @@ C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplicati
 C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.GenerateResource.Cache
 C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe.licenses
 \\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe
-\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.xml
 \\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.pdb
 \\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.exe
 \\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.pdb
-\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.xml
 \\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsFormsApplication1.dll
 \\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\ResolveAssemblyReference.cache
 \\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.Dialog1.resources
@@ -230,3 +228,5 @@ C:\project\movefromxp\movefromxp\movefromxp\WindowsApplication3\WindowsApplicati
 \\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.Resources.resources
 \\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.vbproj.GenerateResource.Cache
 \\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.exe.licenses
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\bin\Debug\MUEcon.xml
+\\VBOXSVR\e_drive\code\movefromxp\movefromxp\WindowsApplication3\WindowsApplication3\obj\Debug\MUEcon.xml

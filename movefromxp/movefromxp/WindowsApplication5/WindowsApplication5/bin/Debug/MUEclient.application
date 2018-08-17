@@ -4,14 +4,14 @@
   <description asmv2:publisher="MUEclient" asmv2:product="MUEclient" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="MUEclient.exe.manifest" size="4546">
+    <dependentAssembly dependencyType="install" codebase="MUEclient.exe.manifest" size="4548">
       <assemblyIdentity name="MUEclient.exe" version="1.0.1.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>S/oPdtQ2tk/csDAg/fQOBnMU4X0=</dsig:DigestValue>
+        <dsig:DigestValue>8amuwZ8UW8eyw9ayfmH4lf52LGI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

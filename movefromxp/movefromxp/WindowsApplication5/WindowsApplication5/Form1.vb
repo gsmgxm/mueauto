@@ -827,11 +827,11 @@ Public Class Form1
             End Select
             Dim h = 0
 
-            Do While (h < 3) And UErealip = ""
+            Do While (h < 3) And ueinternalip = ""
                 serialSendData("AT+CGCONTRDP" & vbCrLf, logname)
                 displaylog("AT+CGCONTRDP", "g")
                 wait(10)
-                displaylog("UErealip:=" + UErealip, "r")
+                displaylog("UErealip:=" + ueinternalip, "r")
 
                 h = h + 1
             Loop
@@ -839,6 +839,11 @@ Public Class Form1
             continoustime = continoustime + 1
             displaylog("attach try times:" + trytimes.ToString, "r")
             If addroute() = "ip not find" Then
+                If ueinternalip <> "" And (uerealtype = "Sierra") Then
+                    displaylog("UE attach success, but it can not assign IP to PC. For Sierra chip, try disable/enable netcard", "r")
+                    disenablenetcard()
+
+                End If
                 attachstate = attachstate * False
             End If
             If (uetype = "H" Or uetype = "E5776") And attachstate = True Then
@@ -1054,16 +1059,16 @@ Public Class Form1
             continoustime = continoustime + 1
             displaylog("attach try times:" + trytimes.ToString, "r")
             Dim h = 0
-            Do While (h < 3) And UErealip = ""
+            Do While (h < 3) And ueinternalip = ""
                 serialSendData("AT+CGCONTRDP" & vbCrLf, logname)
                 displaylog("AT+CGCONTRDP", "g")
                 wait(10)
-                displaylog("UErealip:=" + UErealip, "r")
+                displaylog("UErealip:=" + ueinternalip, "r")
 
                 h = h + 1
             Loop
             If addroute() = "ip not find" Then
-                If UErealip <> "" And (uerealtype = "Sierra") Then
+                If ueinternalip <> "" And (uerealtype = "Sierra") Then
                     displaylog("UE attach success, but it can not assign IP to PC. For Sierra chip, try disable/enable netcard", "r")
                     disenablenetcard()
 
@@ -2824,6 +2829,7 @@ Public Class Form1
 
     Function attachdetach_Qualcomm(ByVal type As Integer) As String
         UErealip = ""
+        ueinternalip = ""
         serialSendData("AT+CHUP" & vbCrLf, logname)
         displaylog("AT+CHUP", "g")
 
@@ -4906,16 +4912,21 @@ Public Class Form1
             trytimes = trytimes + 1
             displaylog("attach try times:" + trytimes.ToString, "r")
             Dim h = 0
-            Do While (h < 3) And UErealip = ""
+            Do While (h < 3) And ueinternalip = ""
                 serialSendData("AT+CGCONTRDP" & vbCrLf, logname)
                 displaylog("AT+CGCONTRDP", "g")
                 wait(10)
-                displaylog("UErealip:=" + UErealip, "r")
+                displaylog("UErealip:=" + ueinternalip, "r")
 
                 h = h + 1
             Loop
 
             If addroute() = "ip not find" Then
+                If ueinternalip <> "" And (uerealtype = "Sierra") Then
+                    displaylog("UE attach success, but it can not assign IP to PC. For Sierra chip, try disable/enable netcard", "r")
+                    disenablenetcard()
+
+                End If
                 attachstate = attachstate * False
             End If
             If (uetype = "H" Or uetype = "E5776") And attachstate = True Then
@@ -5152,15 +5163,20 @@ Public Class Form1
             trytimes = trytimes + 1
             displaylog("attach try times:" + trytimes.ToString, "r")
             Dim h = 0
-            Do While (h < 3) And UErealip = ""
+            Do While (h < 3) And ueinternalip = ""
                 serialSendData("AT+CGCONTRDP" & vbCrLf, logname)
                 displaylog("AT+CGCONTRDP", "g")
                 wait(10)
-                displaylog("UErealip:=" + UErealip, "r")
+                displaylog("UErealip:=" + ueinternalip, "r")
 
                 h = h + 1
             Loop
             If addroute() = "ip not find" Then
+                If ueinternalip <> "" And (uerealtype = "Sierra") Then
+                    displaylog("UE attach success, but it can not assign IP to PC. For Sierra chip, try disable/enable netcard", "r")
+                    disenablenetcard()
+
+                End If
                 attachstate = attachstate * False
             End If
             If (uetype = "H" Or uetype = "E5776") And attachstate = True Then
@@ -5231,15 +5247,20 @@ Public Class Form1
                     trytimes = trytimes + 1
                     displaylog("attach try times:" + trytimes.ToString, "r")
                     Dim h = 0
-                    Do While (h < 3) And UErealip = ""
+                    Do While (h < 3) And ueinternalip = ""
                         serialSendData("AT+CGCONTRDP" & vbCrLf, logname)
                         displaylog("AT+CGCONTRDP", "g")
                         wait(10)
-                        displaylog("UErealip:=" + UErealip, "r")
+                        displaylog("UErealip:=" + ueinternalip, "r")
 
                         h = h + 1
                     Loop
                     If addroute() = "ip not find" Then
+                        If ueinternalip <> "" And (uerealtype = "Sierra") Then
+                            displaylog("UE attach success, but it can not assign IP to PC. For Sierra chip, try disable/enable netcard", "r")
+                            disenablenetcard()
+
+                        End If
                         attachstate = attachstate * False
                     End If
                     If (uetype = "H" Or uetype = "E5776") And attachstate = True Then
@@ -5519,16 +5540,18 @@ Public Class Form1
                     sIn.Write(cmd & System.Environment.NewLine)
                 Catch ex As Exception
                     Dim a = 1
+                    Console.WriteLine("send dos command fail," + ex.ToString)
                 End Try
 
                 Thread.Sleep(100)
             Next
 
             sIn.Write("exit" & System.Environment.NewLine)
-            If myProcess.WaitForExit(500) Then
+            If myProcess.WaitForExit(5000) Then
+                Console.WriteLine("reading result")
                 result = sOut.ReadToEnd()
             Else
-                result = ""
+                result = "fail"
                 myProcess.Kill()
 
             End If
@@ -5543,7 +5566,8 @@ Public Class Form1
             myProcess.Close()
 
             't.Abort()
-        Catch ex As Exception
+        Catch ex1 As Exception
+            Console.WriteLine("waiting command result fail," + ex1.ToString)
             't.Abort()
         End Try
     End Sub
@@ -5947,15 +5971,20 @@ Public Class Form1
             continoustime = continoustime + 1
             displaylog("attach try times:" + trytimes.ToString, "r")
             Dim h = 0
-            Do While (h < 3) And UErealip = ""
+            Do While (h < 3) And ueinternalip = ""
                 serialSendData("AT+CGCONTRDP" & vbCrLf, logname)
                 displaylog("AT+CGCONTRDP", "g")
                 wait(10)
-                displaylog("UErealip:=" + UErealip, "r")
+                displaylog("UErealip:=" + ueinternalip, "r")
 
                 h = h + 1
             Loop
             If addroute() = "ip not find" Then
+                If ueinternalip <> "" And (uerealtype = "Sierra") Then
+                    displaylog("UE attach success, but it can not assign IP to PC. For Sierra chip, try disable/enable netcard", "r")
+                    disenablenetcard()
+
+                End If
                 attachstate = attachstate * False
             End If
             If (uetype = "H" Or uetype = "E5776") And attachstate = True Then
@@ -6099,15 +6128,20 @@ flagmoc:    calldroped = False
                     continoustime = continoustime + 1
                     displaylog("attach try times:" + trytimes.ToString, "r")
                     Dim h = 0
-                    Do While (h < 3) And UErealip = ""
+                    Do While (h < 3) And ueinternalip = ""
                         serialSendData("AT+CGCONTRDP" & vbCrLf, logname)
                         displaylog("AT+CGCONTRDP", "g")
                         wait(10)
-                        displaylog("UErealip:=" + UErealip, "r")
+                        displaylog("UErealip:=" + ueinternalip, "r")
 
                         h = h + 1
                     Loop
                     If addroute() = "ip not find" Then
+                        If ueinternalip <> "" And (uerealtype = "Sierra") Then
+                            displaylog("UE attach success, but it can not assign IP to PC. For Sierra chip, try disable/enable netcard", "r")
+                            disenablenetcard()
+
+                        End If
                         attachstate = attachstate * False
                     End If
                     If (uetype = "H" Or uetype = "E5776") And attachstate = True Then
