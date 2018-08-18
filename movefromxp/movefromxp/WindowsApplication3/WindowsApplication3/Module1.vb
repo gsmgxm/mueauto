@@ -4,6 +4,7 @@ Imports System.Net
 Imports System.Net.Sockets
 Imports System.Threading
 Imports System.Runtime.InteropServices
+Imports Microsoft.VisualBasic.Compatibility
 Module Module1
     Public totalstatus As String = ""
     Public UEinformations As String = ""
@@ -711,3 +712,149 @@ Module Module1
     End Class
 
 End Module
+
+Friend Class cRWINI
+
+    'INI文件读写类 (未完成)
+    '
+    '与普通INI读写功能类似,增加了节与关键字集合,读入到一个数组内,方便枚举.
+    '目前只有枚举,读值功能,还没增加写值,新建啥的功能....因为用到这个功能的那个工程不需要写,就懒得写了,哇哈哈..-_-b
+    '
+    'By 嗷嗷叫的老马
+    'http://www.m5home.com
+    '2009-08-22
+
+    Dim mIniFileName As String 'INI文件名
+    Dim IniBuff() As String '保存INI内容的数组
+    Public Function TotalSections(ByVal filenanem As String) As String
+        Return EnumSections.Count()
+    End Function
+    Public Function GetSection(ByVal filename As String, ByVal index As Integer) As String
+        Return EnumSections()(index)
+    End Function
+    Public Function EnumSections() As String()
+        '取得所有的节名称
+        Dim Buff() As String
+        Dim I, J As Integer
+
+        If UBound(IniBuff) < 0 Then Exit Function
+
+        J = 0
+        For I = 0 To UBound(IniBuff)
+            If Mid(IniBuff(I), 1, 1) = "[" Then
+                ReDim Preserve Buff(J) '记录当前关键字
+                Buff(J) = IniBuff(I)
+                J = J + 1
+            End If
+        Next
+        EnumSections = VB6.CopyArray(Buff)
+    End Function
+    Public Function ReadKeyVal(ByVal filename As String, ByVal section As String, ByVal key As String) As String
+        If IniFileName <> filename Then
+            IniFileName = filename
+        End If
+        Return GetValue(section, key)
+
+    End Function
+
+    Public Function EnumKeywords(ByVal SectionName As String) As String()
+        '根据节名称,返回所有关键字
+        Dim Buff() As String
+        Dim Buff2() As String
+        Dim I As Integer
+        Dim J As Integer
+        Dim K As Integer
+
+        If UBound(IniBuff) < 0 Then Exit Function
+
+        J = 0
+        For I = 0 To UBound(IniBuff)
+            If Mid(IniBuff(I), 1, 1) = "[" And InStr(IniBuff(I), SectionName) <> 0 Then '从包含"["且包含节名的行开始
+                Do
+                    I = I + 1 '下一行
+
+                    If I > UBound(IniBuff) Then Exit Do
+                    If Mid(IniBuff(I), 1, 1) = "[" Then Exit Do '如果包含"[",说明到达下一个节开始了,跳出
+                    If Mid(IniBuff(I), 1, 1) = ";" Then Exit Do '如果包含";",说明是注释,跳出
+
+                    If IniBuff(I) <> "" Then
+                        If InStr(1, IniBuff(I), "=", CompareMethod.Text) <> 0 Then
+                            ReDim Preserve Buff(J) '记录当前关键字
+                            Buff2 = Split(IniBuff(I), "=")
+
+                            Buff(J) = Trim(Buff2(0))
+                            J = J + 1
+                        End If
+                    End If
+                Loop
+                Exit For
+            End If
+        Next
+        EnumKeywords = VB6.CopyArray(Buff)
+    End Function
+
+    Public Function GetValue(ByVal SectionName As String, ByVal Keyword As String) As String
+        '根据节名与关键字,返回值
+        Dim Buff() As String
+        Dim J, I, K As Integer
+
+        On Error GoTo ErrHandle
+
+        If UBound(IniBuff) < 0 Then Exit Function
+
+        J = 0
+        For I = 0 To UBound(IniBuff)
+            If Mid(IniBuff(I), 1, 1) = "[" And InStr(IniBuff(I), SectionName) <> 0 Then '从包含"["且包含节名的行开始
+                Do
+                    I = I + 1 '下一行
+
+                    If I > UBound(IniBuff) Then Exit Do
+                    If IniBuff(I) = "" Then Exit Do
+                    If Mid(IniBuff(I), 1, 1) = "[" Then Exit Do '如果包含"[",说明到达下一个节开始了,跳出
+                    If Mid(IniBuff(I), 1, 1) = ";" Then Exit Do '如果包含";",说明是注释,跳出
+
+                    If InStr(IniBuff(I), Keyword) <> 0 Then
+                        Buff = Split(IniBuff(I), "=")
+                        Buff(0) = Trim(Buff(0))
+                        Buff(1) = Trim(Buff(1))
+
+                        If Buff(0) = Keyword Then '确认关键字相同,而不是包含
+                            GetValue = Buff(1) '记录当前关键字
+                            Exit Do
+                        End If
+                    End If
+                    J = J + 1
+                Loop
+                Exit For
+            End If
+        Next
+ErrHandle:
+    End Function
+
+
+    Public Property IniFileName() As String
+        Get
+            IniFileName = mIniFileName
+        End Get
+        Set(ByVal Value As String)
+            Dim I As Integer
+
+            mIniFileName = Value
+            FileOpen(1, mIniFileName, OpenMode.Binary)
+            Dim Buff As String
+
+            Buff = Space(LOF(1))
+            'UPGRADE_WARNING: Get 已升级到 FileGet 并具有新行为。 单击以获得更多信息:“ms-help://MS.VSCC.v90/dv_commoner/local/redirect.htm?keyword="9B7D5ADD-D8FE-4819-A36C-6DEDAF088CC7"”
+            FileGet(1, Buff)
+            FileClose(1)
+            IniBuff = Split(Buff, vbCrLf)
+            For I = 0 To UBound(IniBuff) '去掉首尾空格
+                IniBuff(I) = Trim(IniBuff(I))
+            Next
+        End Set
+    End Property
+End Class
+
+
+
+

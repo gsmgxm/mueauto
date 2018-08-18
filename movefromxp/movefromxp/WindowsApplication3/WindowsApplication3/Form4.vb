@@ -1456,10 +1456,14 @@ Friend Class Form4
         Dim UEnumbers As String
         Dim i As Short
         Dim oneueconfig As String
+        Dim objRWINI As New cRWINI
         ' ConsoleHelper.openconsole(Me.Handle, Me.Width, Me.Height)
         UEconfigurations = ""
-        UElogdir = Module1.ReadKeyVal(configfilename, "dirs", "UElog")
-        UEnumbers = CStr(Module1.TotalSections(configfilename))
+        'UElogdir = Module1.ReadKeyVal(configfilename, "dirs", "UElog")
+        UElogdir = objRWINI.ReadKeyVal(configfilename, "dirs", "UElog")
+        'UEnumbers = CStr(Module1.TotalSections(configfilename))
+        UEnumbers = CStr(objRWINI.TotalSections(configfilename))
+
         ListView1.Items.Clear() '清空列表
         ListView1.Columns.Clear() '清空列表头
         ListView1.View = System.Windows.Forms.View.Details '设置列表显示方式
@@ -1504,35 +1508,60 @@ Friend Class Form4
         MDIForm1.ToolStripProgressBar1.Value = 0
         If CDbl(UEnumbers) - 2 >= 0 Then
             For i = 0 To CDbl(UEnumbers) - 2
-                If Module1.GetSection(configfilename, i + 1) <> "dirs" Then
-
-                    ListView1.Items.Add(Module1.GetSection(configfilename, i + 1))
+                'If Module1.GetSection(configfilename, i + 1) <> "dirs" Then
+                If objRWINI.GetSection(configfilename, i + 1) <> "dirs" Then
+                    'ListView1.Items.Add(Module1.GetSection(configfilename, i + 1))
+                    ListView1.Items.Add(objRWINI.GetSection(configfilename, i + 1))
                     ListView1.Items.Item(i).SubItems.Add("")
                     ListView1.Items.Item(i).SubItems.Add("")
-                    ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "ip")))
-                    ListView1.Items.Item(i).SubItems(3).Tag = Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "ip"))
+                    ListView1.Items.Item(i).SubItems.Add(Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "ip")))
+                    ListView1.Items.Item(i).SubItems(3).Tag = Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "ip"))
                     ueliststate.Add(ListView1.Items.Item(i).SubItems(3).Tag, Now)
-                    ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "cip")))
-                    ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "throughput")))
-                    ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "serverip")))
-                    ListView1.Items.Item(i).SubItems(6).Tag = Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "serverip"))
+                    ListView1.Items.Item(i).SubItems.Add(Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "cip")))
+                    ListView1.Items.Item(i).SubItems.Add(Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "throughput")))
+                    ListView1.Items.Item(i).SubItems.Add(Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "serverip")))
+                    ListView1.Items.Item(i).SubItems(6).Tag = Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "serverip"))
 
-                    ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "com")))
-                    ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "type")))
-                    ListView1.Items.Item(i).SubItems(8).Tag = Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "type"))
+                    ListView1.Items.Item(i).SubItems.Add(Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "com")))
+                    ListView1.Items.Item(i).SubItems.Add(Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "type")))
+                    ListView1.Items.Item(i).SubItems(8).Tag = Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "type"))
 
-                    ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "action")))
-                    ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "dinterval")))
-                    ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "loopinterval")))
-                    ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "traffic")))
-                    ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "ftpsession")))
-                    ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "logip")))
-                    ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "serverip2")))
-                    ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "serverip3")))
-                    ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "serverip4")))
-                    ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "udpul")))
-                    ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "udpdl")))
-                    ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "tnumber")))
+                    ListView1.Items.Item(i).SubItems.Add(Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "action")))
+                    ListView1.Items.Item(i).SubItems.Add(Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "dinterval")))
+                    ListView1.Items.Item(i).SubItems.Add(Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "loopinterval")))
+                    ListView1.Items.Item(i).SubItems.Add(Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "traffic")))
+                    ListView1.Items.Item(i).SubItems.Add(Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "ftpsession")))
+                    ListView1.Items.Item(i).SubItems.Add(Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "logip")))
+                    ListView1.Items.Item(i).SubItems.Add(Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "serverip2")))
+                    ListView1.Items.Item(i).SubItems.Add(Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "serverip3")))
+                    ListView1.Items.Item(i).SubItems.Add(Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "serverip4")))
+                    ListView1.Items.Item(i).SubItems.Add(Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "udpul")))
+                    ListView1.Items.Item(i).SubItems.Add(Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "udpdl")))
+                    ListView1.Items.Item(i).SubItems.Add(Trim(objRWINI.ReadKeyVal(configfilename, objRWINI.GetSection(configfilename, i + 1), "tnumber")))
+                    'ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "ip")))
+                    'ListView1.Items.Item(i).SubItems(3).Tag = Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "ip"))
+                    'ueliststate.Add(ListView1.Items.Item(i).SubItems(3).Tag, Now)
+                    'ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "cip")))
+                    'ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "throughput")))
+                    'ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "serverip")))
+                    'ListView1.Items.Item(i).SubItems(6).Tag = Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "serverip"))
+
+                    'ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "com")))
+                    'ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "type")))
+                    'ListView1.Items.Item(i).SubItems(8).Tag = Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "type"))
+
+                    'ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "action")))
+                    'ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "dinterval")))
+                    'ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "loopinterval")))
+                    'ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "traffic")))
+                    'ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "ftpsession")))
+                    'ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "logip")))
+                    'ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "serverip2")))
+                    'ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "serverip3")))
+                    'ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "serverip4")))
+                    'ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "udpul")))
+                    'ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "udpdl")))
+                    'ListView1.Items.Item(i).SubItems.Add(Trim(Module1.ReadKeyVal(configfilename, Module1.GetSection(configfilename, i + 1), "tnumber")))
                     ' ListView1.Items.Item(i).Checked = True
                 End If
                 MDIForm1.ToolStripProgressBar1.Value = i
@@ -2576,7 +2605,7 @@ Friend Class Form4
                         If item.SubItems(1).Text <> "Out of control" Then
                             item.SubItems(1).Text = "Out of control"
                             'clear TP
-                            For h = 0 To 60
+                            For h = 1 To 61
                                 graphic = ListView1.GetEmbeddedControl(5, item.Index)
                                 refreshgrah(graphic, 0, 0)
                             Next
@@ -3090,9 +3119,9 @@ Friend Class Form4
     Sub cleargraphic(ByVal WaveformGraph1 As NationalInstruments.UI.WindowsForms.ScatterGraph)
         WaveformGraph1.Plots(0).ClearData()
         WaveformGraph1.Plots(1).ClearData()
-        For h = 0 To 60
-            WaveformGraph1.Plots(0).PlotXYAppend(0, 0)
-            WaveformGraph1.Plots(1).PlotXYAppend(0, 0)
+        For h = 1 To 61
+            WaveformGraph1.Plots(0).PlotXYAppend(h, 0)
+            WaveformGraph1.Plots(1).PlotXYAppend(h, 0)
         Next
 
     End Sub

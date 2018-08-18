@@ -64,3 +64,37 @@
 2018/08/17 17:09:45 Group:goodposition null null null null null 2018-08-17---17:09:45 null null
 2018/08/17 17:09:45 1.1.1.1 null null null null null 2018-08-17---17:09:31 7689 19085
 2018/08/17 17:09:45 1.1.1.1 null null 2018-08-17---17:08:49 null null null null null
+2018/08/18 21:16:22 start--------------------------------
+2018/08/18 21:16:22 UE-ip time drop-times drop-rate attach-times attach-success TP-time DLPT ULPT
+2018/08/18 21:17:22 Group:badposition null null null null null 2018-08-18---21:17:22 null null
+2018/08/18 21:17:22 Group:goodposition null null null null null 2018-08-18---21:17:22 null null
+2018/08/18 21:17:22 1.1.1.1 null null null null null null null null
+2018/08/18 21:17:22 1.1.1.1 null null 2018-08-18---21:17:11 null null null null null
+2018/08/18 21:20:40 start--------------------------------
+2018/08/18 21:20:40 UE-ip time drop-times drop-rate attach-times attach-success TP-time DLPT ULPT
+2018/08/18 21:21:40 Group:badposition null null null null null 2018-08-18---21:21:40 null null
+2018/08/18 21:21:40 Group:goodposition null null null null null 2018-08-18---21:21:40 null null
+2018/08/18 21:21:40 1.1.1.1 null null null null null null null null
+2018/08/18 21:21:40 1.1.1.1 null null 2018-08-18---21:21:38 null null null null null
+2018/08/18 21:48:47 start--------------------------------
+2018/08/18 21:48:47 UE-ip time drop-times drop-rate attach-times attach-success TP-time DLPT ULPT
+2018/08/18 21:49:57 start--------------------------------
+2018/08/18 21:49:57 UE-ip time drop-times drop-rate attach-times attach-success TP-time DLPT ULPT
+2018/08/18 22:02:17 start--------------------------------
+2018/08/18 22:02:17 UE-ip time drop-times drop-rate attach-times attach-success TP-time DLPT ULPT
+2018/08/18 22:10:42 start--------------------------------
+2018/08/18 22:10:42 UE-ip time drop-times drop-rate attach-times attach-success TP-time DLPT ULPT
+2018/08/18 22:12:43 start--------------------------------
+2018/08/18 22:12:43 UE-ip time drop-times drop-rate attach-times attach-success TP-time DLPT ULPT
+2018/08/18 22:17:23 start--------------------------------
+2018/08/18 22:17:23 UE-ip time drop-times drop-rate attach-times attach-success TP-time DLPT ULPT
+2018/08/18 22:19:05 start--------------------------------
+2018/08/18 22:19:05 UE-ip time drop-times drop-rate attach-times attach-success TP-time DLPT ULPT
+2018/08/18 22:20:16 start--------------------------------
+2018/08/18 22:20:16 UE-ip time drop-times drop-rate attach-times attach-success TP-time DLPT ULPT
+2018/08/18 22:21:41 start--------------------------------
+2018/08/18 22:21:41 UE-ip time drop-times drop-rate attach-times attach-success TP-time DLPT ULPT
+2018/08/18 22:23:34 start--------------------------------
+2018/08/18 22:23:34 UE-ip time drop-times drop-rate attach-times attach-success TP-time DLPT ULPT
+2018/08/18 22:30:01 start--------------------------------
+2018/08/18 22:30:01 UE-ip time drop-times drop-rate attach-times attach-success TP-time DLPT ULPT

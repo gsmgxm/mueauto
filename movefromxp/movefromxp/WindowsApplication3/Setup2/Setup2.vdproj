@@ -303,6 +303,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_80618053C603469EBFB67CFB48F58C0F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_86B36175C51446769EA49F265CBC816D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -555,12 +561,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_E9194DA89EA04D54B61F75A42909142C"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_EBAA8A69FD494FE1B591C3FF367BA83C"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -622,7 +622,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_E9194DA89EA04D54B61F75A42909142C"
+        "OwnerKey" = "8:_80618053C603469EBFB67CFB48F58C0F"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -2255,37 +2255,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E9194DA89EA04D54B61F75A42909142C"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:UEpowerreset, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_E9194DA89EA04D54B61F75A42909142C"
-                    {
-                    "Name" = "8:UEpowerreset.exe"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:D:\\mueauto\\UEpowerreset\\UEpowerreset.exe"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_5A8F134B96AB4A15992E0F068A8CD2C9"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EBAA8A69FD494FE1B591C3FF367BA83C"
             {
             "SourcePath" = "8:D:\\mueauto\\dist\\play1.wav"
@@ -2540,14 +2509,14 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:MUEauto"
-        "ProductCode" = "8:{4C43D708-6F25-459C-9786-64FF681F65EE}"
-        "PackageCode" = "8:{9EDB80E0-1863-43F2-ADD7-5E8B38D99671}"
+        "ProductCode" = "8:{3B4E0161-F572-4445-A119-5F53EF60FB43}"
+        "PackageCode" = "8:{0ADD05A0-A166-4026-9751-4A15543C4248}"
         "UpgradeCode" = "8:{C3123620-61B2-42A1-8D1E-38F71B923894}"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:2.1.11"
+        "ProductVersion" = "8:2.1.12"
         "Manufacturer" = "8:NSB"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
@@ -2555,7 +2524,7 @@
         "Subject" = "8:"
         "ARPCONTACT" = "8:Ge xingmin"
         "Keywords" = "8:"
-        "ARPCOMMENTS" = "8:2018-8-13"
+        "ARPCOMMENTS" = "8:2018-8-18"
         "ARPURLINFOABOUT" = "8:"
         "ARPPRODUCTICON" = "8:_643951896DCE49D1A4ADE45E5E3EFDF0"
         "ARPIconIndex" = "3:32512"
@@ -3714,6 +3683,34 @@
             "OutputConfiguration" = "8:"
             "OutputGroupCanonicalName" = "8:Built"
             "OutputProjectGuid" = "8:{25F0F422-8CEE-4B03-B519-258F677375B7}"
+            "ShowKeyOutput" = "11:TRUE"
+                "ExcludeFilters"
+                {
+                }
+            }
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_80618053C603469EBFB67CFB48F58C0F"
+            {
+            "SourcePath" = "8:\\\\VBOXSVR\\e_drive\\code\\movefromxp\\movefromxp\\UEpowerreset\\UEpowerreset\\obj\\Debug\\UEpowerreset.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_5A8F134B96AB4A15992E0F068A8CD2C9"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            "ProjectOutputGroupRegister" = "3:1"
+            "OutputConfiguration" = "8:"
+            "OutputGroupCanonicalName" = "8:Built"
+            "OutputProjectGuid" = "8:{BEE29A70-5987-4739-81C0-4C7745341DF7}"
             "ShowKeyOutput" = "11:TRUE"
                 "ExcludeFilters"
                 {
